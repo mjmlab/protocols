@@ -7,6 +7,7 @@
 ------|--------|-------------------
 1130  | MB11B1 | LBS-Erm100
 1100 | ES114 | LBS-Erm5*
+1125 | SR5   | LBS-Erm10
 
 *was not determined using this general protocol
 
