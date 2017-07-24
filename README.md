@@ -13,6 +13,7 @@
 - [Colony-Forming Units (CFU), Counting](cfu-spots.md)
 - [Conjugation](conjugation.md)
 - [Competition in vitro](competition-in-vitro.md)
+- [Electrocompetent Cells](electrocompetent-cells.md)
 - [Glycerol stocks](glycerol-stocks.md)
 - [Luminescence reading in a single tube luminometer](luminometer.md)
 - [Transformation using tfoX induction](tfox-transformation.md)
