@@ -1,7 +1,7 @@
 # Creation of Electrocompetent E. coli for Transformations
 
 Description of protocol used to create lab stocks of electrocompetent *E. coli*.
-Below details the original protocol as well as the one that utilizes the smaller biobottles.
+Below details the original protocol as well as the more commonly used one that utilizes the smaller biobottles.
 
 ## Original Protocol
 
@@ -92,7 +92,7 @@ Ice bucket
 **Day 2**
 1. Inoculate 500 ml SOC with 500 μl overnight culture and grow at 37°C until OD600 = 0.5 (approximately 3-4 hours).
 2. Cool culture quickly in an ice-water slurry.
-3. Divide culture into the three chilled biobottles.
+3. Divide culture evenly into the three chilled biobottles.
 4. Pellet at 4000 x g, at 4°C for 15 min.  Use Biobottles in the TX-450 rotor.
 5. Re-suspend each pellet in 165 ml cold dI H2O.
 6. Pellet as in #4.
@@ -100,6 +100,6 @@ Ice bucket
 8. Pellet as in #4.
 9. Re-suspend each pellet in 7 ml cold 10% glycerol.  Transfer all 3 resuspensions to the same 50ml conical tube.
 10. Pellet as in #4, balancing with a blank tube.
-11. Re-suspend pellet in 2 ml cold 10% glycerol.
+11. Re-suspend pellet in 1 ml cold 10% glycerol.
 12. Aliquot 50 μl volumes in cold microfuge tubes and store at -80ºC.
 
