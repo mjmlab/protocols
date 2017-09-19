@@ -8,7 +8,7 @@
 ### Microbiology
 - Media and Buffers Recipes
   - [Media](media.md)
-  - [Buffers](buffers.md)
+  - [Buffers and Reagents](buffers.md)
 - [Antibiotics](antibiotics.md)
 - [Colony-Forming Units (CFU), Counting](cfu-spots.md)
 - [Conjugation](conjugation.md)
