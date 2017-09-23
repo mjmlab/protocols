@@ -24,3 +24,11 @@
 
 ### Computational
 - [Git and GitHub](git-github.md)
+
+
+### Equipment
+- Gel Doc
+- QIAcube
+- Plate Reader
+- Leica EZ4 Steromicroscope
+- Zeiss Axio Zoom V16 Microscope
