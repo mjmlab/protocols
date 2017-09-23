@@ -31,4 +31,4 @@
 - QIAcube
 - Plate Reader
 - Leica EZ4 Steromicroscope
-- Zeiss Axio Zoom V16 Microscope
+- [Zeiss Axio Zoom V16 Microscope](Zeiss Axio Zoom V16 Microscope)
