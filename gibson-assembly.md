@@ -34,7 +34,7 @@ Here we use the NEBuilder to assemble the desired construct *in silico*.
 
 ## Amplification and Gibson Assembly
 
-4. Prepare PCR reactions using polymerase Pfx50 and conditions laid out by Excel spreadsheet 'PCR Worksheet’
+4. Prepare PCR reactions using polymerase Q5 and conditions laid out by Excel spreadsheet 'PCR Worksheet’
 
 5. Run PCR reactions in thermocycler as per cycling conditions laid out in spreadsheet
 
@@ -45,7 +45,7 @@ Here we use the NEBuilder to assemble the desired construct *in silico*.
 7. If PCR was successful, purify reactions using QIAgen PCR Purification Kit
 
 8. Treat the PCR amplified vector with Dpn1 as follows:
--	In a 50ul total reaction volume use 5ul 10XNEBuffer4, 1ul Dpn1 and 44ul PCR purified vector
+-	In a 10ul total reaction volume use 1ul 10xCutSmart buffer, 1ul Dpn1 and 8ul PCR purified vector
 -	Incubate at 37C for 1 hr
 -	Heat inactivate Dpn1 at 80C for 20 min
 
@@ -53,9 +53,9 @@ Here we use the NEBuilder to assemble the desired construct *in silico*.
 
 10. Set up Gibson assembly reactions as follows
 -	Thaw an aliquot of 10 ul Gibson Assembly Master Mix(2X, NEB#E2611L)
--	Add X ul of PCR fragments and linearized vector such that vector is at 50-100 ng and insert(s) is in at lead 2-fold molar excess
+-	Add X ul of PCR fragments and linearized vector such that vector is at 50-100 ng and insert(s) is at 3-fold molar excess
 -	Add 10-X ul of nuclease free water to a total reaction volume of 20 ul
--	Incubate in thermocycler at 50C for 15 minutes
+-	Incubate in thermocycler at 50C for 20 minutes
 -	Store samples on ice or -20C for subsequent transformation
 -	Also perform the above on an insert-free/vector-only control reaction
 
@@ -66,7 +66,7 @@ Transform the above into electrocompetent DH5a-lambda-pir cells as follows
 -	Bring SOC media from 4C to room temperature
 -	Chill electroporation cuvette on ice
 -	Obtain 50ul aliquot of electrocompetent cells from -80C freezer and thaw on ice for 5 mins
--	If using DNA in a salty buffer or a ligation reaction, remember to dialyze sample before adding to cells (samples with salt will cause arcing during electroporation and kill the cells). Samples were dialyzed using Millipore Nitrocellulose Membrane Filters (#VSWP01300). ddH2O was taken in a clean, empty petri dish and one filter disc was allowed to float on the surface of the water. 10 ul of sample is pipetted onto filter disc and allowed to stand for 10 mins. The sample is then pipetted off the disc and is now ready for transformation.
+-	If using DNA in a salty buffer or a ligation reaction, remember to dialyze sample before adding to cells (samples with salt will cause arcing during electroporation and kill the cells). Samples were dialyzed using Millipore Nitrocellulose Membrane Filters (#VSWP01300). ddH2O was taken in a clean, empty petri dish and one filter disc was allowed to float on the surface of the water. 10 ul of sample is pipetted onto filter disc and allowed to stand for 10 mins. The sample is then pipetted off the disc and is now ready for transformation. If using the Gibson Assembly mix, dilute 5ul in 10ul DNA-water.
 -	Gently pipet 1-5 ul of DNA into cells (I usually use 1 ul of purified plasmid or 3 ul of ligation reaction)
 -	Gently transfer cells to electroporation cuvette - into the narrow part at the bottom of the cuvette - being careful not to introduce air bubbles as that will cause arcing during electroporation
 -	Using the Seifert lab electroporator:
@@ -78,7 +78,7 @@ Transform the above into electrocompetent DH5a-lambda-pir cells as follows
   -	Press two red buttons simultaneously till the pulse sound is heard for about 3 seconds
   -	Pull out sliding arm and immediately add 900ul SOC media and transfer cells into a sterile 1.7 ml microcentrifuge tube
   -	Dispose of cuvette as glass waste and turn off the machine
--	Recover cells by incubating in 37C shaker for 30 mins
+-	Recover cells by incubating in 37C shaker for 1 hour
 -	For purified plasmid, plate 100ul of cells on agar containing the appropriate selection. For ligation reaction, spin down cells for 5 min at 5000 rpm and remove excess media, resuspending in 100 ul media and plating on agar containing the appropriate selection.
 -	Spread cells using glass beads and incubate plate at 37C overnight or until colonies start to appear
 -	Include an intact vector control
