@@ -1,15 +1,13 @@
 # Building a Mariner Library in *Vibrio Fischeri*
 
-## Pilot Mating to determine optimal concetration of LBS-Erm
+## Pilot Mating to determine optimal seleciton plate concentration of Erm 
 
 #### Determined:
 | MJM | Strain | Erm Concentration |
 ------|--------|-------------------
 1130  | MB11B1 | LBS-Erm100
-1100 | ES114 | LBS-Erm5*
+1100 | ES114 | LBS-Erm5
 1125 | SR5   | LBS-Erm10
-
-*was not determined using this general protocol
 
 ## Scale up mating spots and banking
 
@@ -43,3 +41,10 @@
 ## Plate mating spots
 
 ## Swab colonies
+
+
+
+# Strain specifics 
+| MJM | Strain | Notes |
+------|--------|-------------------
+2255 | 1198binK | Sticky, so donor at 9000rcf for 1min on Day 1
