@@ -16,16 +16,16 @@
 - Inoculate recipient strain 3mL LBS. Let grow overnight on rotator at 25 °C.
 
 - Total number of inoculation tubes will depend on desired final colony number and estimated CFUs per plate. This group of cultures will consistute Round 1. The total number of rounds will also depend on desired final colony number. 
-- Pour LBS plates and leave on bench overnight. If using MB11B1, pour LBS plates on Day 1. 
+- Pour LBS plates and leave on bench overnight. If using MB11B1, pour LBS plates on Day 1.* 
 
 ### Day 1: Inoculate
 - Pipet 3mL 1431 (2 x 1.5mL) at 1min x 8 rcf into each eppendorf tubes. 
-- Pipet 3mL (2 x 1.5mL) of donor strain onto the 1431 pellets and centrifuge 1min x 8 rcf. 
+- Pipet 3mL (2 x 1.5mL) of donor strain onto the 1431 pellets and centrifuge 1min x 8 rcf. For sticky strains, centrifuge at 1min x 9rcf.* 
 - Resuspend pellets in 300uL LBS. 
 - Pipet 10uL mating spots onto fresh LBS plates. Aim for as many mating spots as possible. 
 - Let mating spots sit at room temperature for 30 minutes, then move to 25 °C overnight. 
 
-- Pour LBS-Erm plates at determined concentration (see table). 
+- Pour LBS-Erm plates at determined concentration depending on background strain (see table). 
 
 ## Day 2: Freeze mating spots
 - Prepare 50mL Falcon tubes with 10mL LBS.   
@@ -40,15 +40,15 @@
 - Discard supernatant and resuspend in 200uL LBS. 
 - Pipet 4 x 50mL onto LBS-Erm5 and distribute with rolling beads. Let sit at 25C for 1-3 days. 
 
-*The protocol may be paused here, and repeated for multiple rounds of mating. Plating onto antibiotic selection plates (Day 3) must be done on the same day for all rounds of matings. 
+*The protocol may be paused here, and repeated up until this point for multiple rounds of mating. Plating onto antibiotic selection plates (Day 3) must be done on the same day for all rounds of matings. 
 
 
 ## Day 3: Plate mating spots onto selection plates. 
 - For each 15mL Falcon tube containing 15mL of mating spot solution, pipet 1.5mL into a clean, sterile eppendorf tube. 
 - Centrifuge at 9000rpm for 1 minute. Discard supernatant. 
 - Resuspend each pellet with 250uL LBS. 
-- Plate 5 x 50uL onto LBS-Erm5 plates. Distribute with rolling beads.
-- Let sit at 25C for 1-2 days. If completed on a Friday, can sit at room temperature until Monday. 
+- Plate 5 x 50uL onto LBS-Erm plates. Distribute with rolling beads. Pool any leftover solution and plate 50uL at a time onto a separate batch of LBS-Erm plates. 
+- Let sit at 25C for 1-2 days. If completed on a Friday, plates can sit at room temperature until Monday. 
 
 
 ## Swab colonies
@@ -56,9 +56,12 @@
 - Prepare 40mL chilled LBS in a 50mL Falcon tube and put on ice. 
 - Begin to swab colonies from the plate and into the 50mL Falcon tube. 
 - When all the colonies from all plates are swabbed, add 50% volume of glycerol into the 50mL Falcon tube. (For example, if there are 28mL in the 50mL Falcon tube, pipet 14mL 50% glycerol). Vortex to mix well. 
+- Prepare an appropriate number of EMPTY red capped freezer tubes in order to accomodate 1.8mL library solution in each. (For example, if there are 42mL library solution + glycerol, prepare 24 red capped tubes, and mark the tube that has less than 1.8mL solution in it). 
+- Label the cap of each tube with "Lib __" with the appropriate library number (For example, MB11B1-pMarVF1 = Lib 31" 
+- Label the side of each tube with "Library __,   "*strain*-pMarVF1 Library", the date and your initials. 
+- Store in a freezer box specific to the Library and store at -80C. 
 
-
-# Strain specifics 
+# Strain specifics* 
 | MJM | Strain | Notes |
 ------|--------|-------------------
 2255 | 1198binK | Sticky, so centrifuge donor at 9000rcf for 1min on Day 1
