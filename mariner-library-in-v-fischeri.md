@@ -1,6 +1,13 @@
 # Building a Mariner Library in *Vibrio Fischeri*
 
-## Pilot Mating to determine optimal seleciton plate concentration of Erm 
+## Pilot Mating to determine optimal conditions
+The purpose of the pilot is to determine the best growth conditions using variants of the following: 
+- Fresh vs. Dry LBS plates for mating 
+- Erythromycin concentration of selection plates 
+- Number of mating spots resuspended onto selection plates  
+
+
+*These may be determined in the same experiment, or in a stepwise function using the results of one to inform the next. If attempted during a single round, inoculate more than 3mL of each strain on Day 0.* 
 
 #### Determined:
 | MJM | Strain | Erm Concentration |
@@ -9,17 +16,40 @@
 1100 | ES114 | LBS-Erm5
 1125 | SR5   | LBS-Erm10
 
+### Day 0: Inoculate
+- Inoculate donor strain MJM1431 into 1 x 3mL LB-Carb100-DAP(0.3mM). Let grow overnight at 37 °C. 
+- Inoculate recipient strain into 1 x 3mL LBS. Let grow overnight on rotator at 25 °C.
+
+### Day 1: Mating 
+- Pipet 3mL 1431 (2 x 1.5mL) at 1min x 8 rcf into a clean, sterile eppendorf tube. 
+- Pipet 3mL (2 x 1.5mL) of donor strain onto the 1431 pellet and centrifuge 1min x 8 rcf. For sticky strains, centrifuge at 1min x 9rcf.* 
+- Resuspend pellet in 300uL LBS. 
+- Pipet 10uL mating spots onto FRESH LBS plates, as well as onto DRY LBS plates. Keep track of which is which in order to determine which matings were more successful. 
+- Leave at room temperature for 3 minutes then move to 25C overnight. 
+
+- If determining the optimal concentration of erythromycin, pour LBS-Erm plates at varying concentrations of antibiotic. For example: 2, 5, 10, 50, 100
+
+### Day 2: Selection plating 
+- Re-suspend each mating spot in 500uL LBS. If determining the optimal number of spots that can be suspended in the same 500uL and plated with minimal background, resuspend 1, 2 or 3 mating spots in a single eppendorf tube with 500uL LBS. 
+- Plate 50uL from each eppendorf tube onto selection plates. 
+- Let sit at 25C for 2 days, or at room temperature for 3 days (i.e, over a weekend). 
+
+### Day 3: Count Plates
+- Count the number of CFUs on each plate and use this to determine the optimal conditions for your matings and your strain. 
+- Use these parameters in the next part of your experiment when scaling up and banking.  
+
+
 ## Scale up mating spots and banking
 
-### Day 0
+### Day 0: Inoculate
 - Inoculate donor strain MJM1431 into 3mL LB-Carb100-DAP(0.3mM). Let grow overnight at 37 °C. 
 - Inoculate recipient strain 3mL LBS. Let grow overnight on rotator at 25 °C.
 
 - Total number of inoculation tubes will depend on desired final colony number and estimated CFUs per plate. This group of cultures will consistute Round 1. The total number of rounds will also depend on desired final colony number. 
 - Pour LBS plates and leave on bench overnight. If using MB11B1, pour LBS plates on Day 1.* 
 
-### Day 1: Inoculate
-- Pipet 3mL 1431 (2 x 1.5mL) at 1min x 8 rcf into each eppendorf tubes. 
+### Day 1: Mating
+- Pipet 3mL 1431 (2 x 1.5mL) at 1min x 8 rcf into eppendorf tubes. 
 - Pipet 3mL (2 x 1.5mL) of donor strain onto the 1431 pellets and centrifuge 1min x 8 rcf. For sticky strains, centrifuge at 1min x 9rcf.* 
 - Resuspend pellets in 300uL LBS. 
 - Pipet 10uL mating spots onto fresh LBS plates. Aim for as many mating spots as possible. 
@@ -27,7 +57,7 @@
 
 - Pour LBS-Erm plates at determined concentration depending on background strain (see table). 
 
-## Day 2: Freeze mating spots
+### Day 2: Freeze mating spots
 - Prepare 50mL Falcon tubes with 10mL LBS.   
 - Swab 20 mating spots into each 50mL Falcon tube (for remaining mating spots that are not a multiple of 20, swab them into a volume of LBS that is 500uL per mating spot).
 - Pellet mating spot solution (500uL x n mating spots per plate) and resuspend in 500uL LBS. 
@@ -40,10 +70,11 @@
 - Discard supernatant and resuspend in 200uL LBS. 
 - Pipet 4 x 50mL onto LBS-Erm5 and distribute with rolling beads. Let sit at 25C for 1-3 days. 
 
-*The protocol may be paused here, and repeated up until this point for multiple rounds of mating. Plating onto antibiotic selection plates (Day 3) must be done on the same day for all rounds of matings. 
+*The protocol may be paused here, and repeated up until this point for multiple rounds of mating. Plating onto antibiotic selection plates (Day 3) must be done on the same day for all rounds of matings.* 
 
+## Final Plating and Swabbing
 
-## Day 3: Plate mating spots onto selection plates. 
+### Day 3: Plate mating spots onto selection plates. 
 - For each 15mL Falcon tube containing 15mL of mating spot solution, pipet 1.5mL into a clean, sterile eppendorf tube. 
 - Centrifuge at 9000rpm for 1 minute. Discard supernatant. 
 - Resuspend each pellet with 250uL LBS. 
@@ -51,7 +82,7 @@
 - Let sit at 25C for 1-2 days. If completed on a Friday, plates can sit at room temperature until Monday. 
 
 
-## Day 4: Swab colonies
+### Day 4: Swab colonies
 - Count a representative number of plates and calculate the estimated total number of colonies. 
 - Prepare 40mL chilled LBS in a 50mL Falcon tube and put on ice. 
 - Begin to swab colonies from the plate and into the 50mL Falcon tube. 
@@ -61,7 +92,7 @@
 - Label the side of each tube with "Library __,   "*strain*-pMarVF1 Library", the date and your initials. 
 - Store in a freezer box specific to the Library and store at -80C. 
 
-# Strain specifics* 
+## Strain specifics* 
 | MJM | Strain | Notes |
 ------|--------|-------------------
 2255 | 1198binK | Sticky, so centrifuge donor at 9000rcf for 1min on Day 1
