@@ -51,7 +51,7 @@
 - Let sit at 25C for 1-2 days. If completed on a Friday, plates can sit at room temperature until Monday. 
 
 
-## Swab colonies
+## Day 4: Swab colonies
 - Count a representative number of plates and calculate the estimated total number of colonies. 
 - Prepare 40mL chilled LBS in a 50mL Falcon tube and put on ice. 
 - Begin to swab colonies from the plate and into the 50mL Falcon tube. 
