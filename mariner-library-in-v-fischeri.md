@@ -1,55 +1,65 @@
 # Building a Mariner Library in *Vibrio Fischeri*
 
+[Preferred conditions for selected recipient strains](#preferred-conditions-for-selected-recipient-strains)
+[Pilot mating to determine antibiotic concentration](#pilot-mating-to-determine-optimal-conditions)
+[Scale up mating spots and bank the library](#scale-up-mating-spots-and-bank-the-library)
+
+
+## Preferred conditions for selected recipient strains
+MJM#     | Strain | Erythromycin concentration | Plate wetness
+:-------:|:------:|----------------------------|-------------------------
+MJM1130  | MB11B1 | LBS-Erm100                 |
+MJM1100  | ES114  | LBS-Erm5                   | wet - use fresh plates 
+MJM1125  | SR5    | LBS-Erm10                  |
+
+If the recipient strain is not listed here, conduct the pilot mating below to optimize conditions.
+
 ## Pilot Mating to determine optimal conditions
-The purpose of the pilot is to determine the best growth conditions using variants of the following: 
-- Fresh vs. Dry LBS plates for mating 
+
+The purpose of the pilot is to determine the best recovery & growth conditions for a particular strain using variants of the following: 
 - Erythromycin concentration of selection plates 
-- Number of mating spots resuspended onto selection plates  
+- Fresh vs. Dry LBS plates for mating 
+- Number of mating spots resuspended onto selection plates
 
-
-*These may be determined in the same experiment, or in a stepwise function using the results of one to inform the next. If attempted during a single round, inoculate more than 3mL of each strain on Day 0.* 
-
-#### Determined:
-| MJM | Strain | Erm Concentration |
-------|--------|-------------------
-1130  | MB11B1 | LBS-Erm100
-1100 | ES114 | LBS-Erm5
-1125 | SR5   | LBS-Erm10
+*These may be determined in the same experiment, or in a stepwise function using the results of one to inform the next. If attempted during a single round, inoculate more than 3 ml of each strain on Day 0.* 
 
 ### Day 0: Inoculate
-- Inoculate donor strain MJM1431 into 1 x 3mL LB-Carb100-DAP(0.3mM). Let grow overnight at 37 °C. 
-- Inoculate recipient strain into 1 x 3mL LBS. Let grow overnight on rotator at 25 °C.
+- Inoculate donor strain MJM1431 into 1 x 3 ml LB-Carb100-DAP(0.3 mM). Grow overnight at 37 °C. 
+- Inoculate recipient strain into 1 x 3 ml LBS. Let grow overnight on rotator at 25 °C.
 
 ### Day 1: Mating 
-- Pipet 3mL 1431 (2 x 1.5mL) at 1min x 8 rcf into a clean, sterile eppendorf tube. 
-- Pipet 3mL (2 x 1.5mL) of donor strain onto the 1431 pellet and centrifuge 1min x 8 rcf. For sticky strains, centrifuge at 1min x 9rcf.* 
-- Resuspend pellet in 300uL LBS. 
-- Pipet 10uL mating spots onto FRESH LBS plates, as well as onto DRY LBS plates. Keep track of which is which in order to determine which matings were more successful. 
-- Leave at room temperature for 3 minutes then move to 25C overnight. 
+- Pipet 3 ml MJM1431 (2 x 1.5 ml) for 1 min at 8,000 rcf into a clean, sterile eppendorf tube. 
+- Pipet 3 ml (2 x 1.5 ml) of donor strain on top of the MJM1431 pellet and centrifuge 1 min at 8,000 rcf. For sticky strains, centrifuge for 1 min at 9,000 rcf.* 
+- Resuspend pellet in 300 μl LBS. 
+- Pipet 10 μl mating spots onto FRESH LBS plates, as well as onto DRY LBS plates. Keep track of which is which in order to determine which matings were more successful. 
+- Leave at room temperature for 3 min to allow the spot to solidify slightly; then move to 25 °C overnight. 
 
-- If determining the optimal concentration of erythromycin, pour LBS-Erm plates at varying concentrations of antibiotic. For example: 2, 5, 10, 50, 100
+- If determining the optimal concentration of erythromycin, pour LBS-Erm plates at varying concentrations of antibiotic. For example: 2, 5, 10, 50, 100 (μg/ml).
 
 ### Day 2: Selection plating 
-- Re-suspend each mating spot in 500uL LBS. If determining the optimal number of spots that can be suspended in the same 500uL and plated with minimal background, resuspend 1, 2 or 3 mating spots in a single eppendorf tube with 500uL LBS. 
-- Plate 50uL from each eppendorf tube onto selection plates. 
+- Re-suspend each mating spot in 500 μl LBS. If determining the optimal number of spots that can be suspended in the same 500 μl and plated with minimal background, resuspend 1, 2 or 3 mating spots in a single microfuge tube with 500 μl LBS. 
+- Plate 50uL from each microfuge tube onto selection plates. 
 - Let sit at 25C for 2 days, or at room temperature for 3 days (i.e, over a weekend). 
 
 ### Day 3: Count Plates
-- Count the number of CFUs on each plate and use this to determine the optimal conditions for your matings and your strain. 
-- Use these parameters in the next part of your experiment when scaling up and banking.  
+- Note any concentrations at which colonies look uneven/unhealthy.
+- Count the CFUs on each plate.
+- Use this to determine the optimal conditions for your matings and your strain in the large-scale library construction and banking.
 
 
-## Scale up mating spots and banking
+## Scale up mating spots and bank the library
+
+The purpose of using many independent mating spots is to ensure that even if a mutant exhibits a "jackpot" phenotype and takes over one spot, that it is only a small proportion of the total library. This also works better for *V. fischeri* than using larger mating spots.
 
 ### Day 0: Inoculate
-- Inoculate donor strain MJM1431 into 3mL LB-Carb100-DAP(0.3mM). Let grow overnight at 37 °C. 
-- Inoculate recipient strain 3mL LBS. Let grow overnight on rotator at 25 °C.
+- Inoculate donor strain MJM1431 into 3 ml LB-Carb100-DAP(0.3 mM). Grow overnight at 37 °C. 
+- Inoculate recipient strain into 3 ml LBS. Grow overnight on rotator at 25 °C.
 
 - Total number of inoculation tubes will depend on desired final colony number and estimated CFUs per plate. This group of cultures will consistute Round 1. The total number of rounds will also depend on desired final colony number. 
 - Pour LBS plates and leave on bench overnight. If using MB11B1, pour LBS plates on Day 1.* 
 
 ### Day 1: Mating
-- Pipet 3mL 1431 (2 x 1.5mL) at 1min x 8 rcf into eppendorf tubes. 
+- Pipet 3 ml MJM1431 (2 x 1.5 ml) at 1min x 8 rcf into eppendorf tubes. 
 - Pipet 3mL (2 x 1.5mL) of donor strain onto the 1431 pellets and centrifuge 1min x 8 rcf. For sticky strains, centrifuge at 1min x 9rcf.* 
 - Resuspend pellets in 300uL LBS. 
 - Pipet 10uL mating spots onto fresh LBS plates. Aim for as many mating spots as possible. 
