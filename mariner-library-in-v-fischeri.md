@@ -1,5 +1,14 @@
 # Building a Mariner Library in *Vibrio Fischeri*
 
+### Completed Libraries
+
+Library Name | MJM | Strain  |  Size 
+-------------|--------|--------------|-----
+Lib 31 |  1130  | MB11B1 | 369k mutants
+Lib 32 |  1125 |  SR5 | 550k mutants
+Lib 33 | 1100 | ES114 | 362k mutants 
+Lib 34 | 2255 | ES114ΔbinKRscs* | 350k mutants
+
 ## Pilot Mating to determine optimal conditions
 The purpose of the pilot is to determine the best growth conditions using variants of the following: 
 - Fresh vs. Dry LBS plates for mating 
