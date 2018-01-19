@@ -24,6 +24,21 @@ MJM1100  | ES114  | LBS-Erm5                   | wet - use fresh plates  | 3
 MJM1125  | SR5    | LBS-Erm10                  | dry - use plates poured 1 day before | 3
 
 If the recipient strain is not listed here, conduct the pilot mating below to optimize conditions.
+=======
+### Completed Libraries
+
+Library Name | MJM | Strain  |  Size 
+-------------|--------|--------------|-----
+Lib 31 |  1130  | MB11B1 | 369k mutants
+Lib 32 |  1125 |  SR5 | 550k mutants
+Lib 33 | 1100 | ES114 | 362k mutants 
+Lib 34 | 2255 | ES114ΔbinKRscs* | 350k mutants
+
+## Pilot Mating to determine optimal conditions
+The purpose of the pilot is to determine the best growth conditions using variants of the following: 
+- Fresh vs. Dry LBS plates for mating 
+- Erythromycin concentration of selection plates 
+- Number of mating spots resuspended onto selection plates  
 
 ## Pilot Mating to determine optimal conditions
 
