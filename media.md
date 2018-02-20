@@ -251,14 +251,14 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
 7. Put media away on designated shelf
 
 ## Plates
-1. Make [media](/media-and-buffer-recipes.md#media-recipies) in appropriate sized flask with stir bar
+1. Make [media](https://github.com/mjmlab/student-lab-assistants/blob/master/media-and-buffer-recipes.md) in appropriate sized flask with stir bar
 2. Add 15 g agar per 1 L of media (makes 1.5% agar plates)
 3. Cover top of flask with aluminum foil and place autoclave tape on top
 4. Turn on 55°C water bath
-4. [Autoclave](/protocols/autoclave-protocol.md)
+4. [Autoclave](/autoclave.md)
 5. After autoclaving, immediately place media in 55°C water bath and wait until cool enough to touch with bare hands
 6. When ready to pour plates, place flask on stir plate and stir at low speed (so bubbles aren't produced)
-   * If making plates with [antibiotics](/protocols/making-media-protocols.md#antibiotics), add antibiotic to flask at this point and let stir for 1 min
+   * If making plates with [antibiotics](/media.md#antibiotics), add antibiotic to flask at this point and let stir for 1 min
 7. Set up plates for pouring; keep the plastic sleeve the plates come in to store the poured plates
    * Use scissors to open sleeve of plates closest to the top seam (to get the most length out of the sleeve for reuse)
    * Stack plates in sets of 5 and line up on bench top
