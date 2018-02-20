@@ -229,9 +229,7 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
 
 ## Making media
 
-# Making media protocols
-
-## General information
+### General information
 
 * Wear gloves while making media
 * When making media to be autoclaved, make sure the volume of the container is twice that of the amount of media you are autoclaving (i.e. if you are making 1 L of media, make it in a 2 L flask to autoclave it)
@@ -240,7 +238,7 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
   * Dust off the scale, make sure its doors are closed
   * Wipe down bench top with wet paper towel (residual media gets sticky)
 
-## Liquid media
+### Liquid media
 1. Make [media](/media-and-buffer-recipes.md#media-recipies) and measure out in 100 mL aliquots into milk dilution bottles
 2. Put lids on bottles loosely (don't close all the way)
 3. Place autoclave tape on seam between lid and bottle
@@ -250,15 +248,15 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
    * Important to tighten caps after cooled, or else they will get stuck on
 7. Put media away on designated shelf
 
-## Plates
-1. Make [media](/media-and-buffer-recipes.md#media-recipies) in appropriate sized flask with stir bar
+### Plates
+1. Make [media](https://github.com/mjmlab/student-lab-assistants/blob/master/media-and-buffer-recipes.md#media-recipes) in appropriate sized flask with stir bar
 2. Add 15 g agar per 1 L of media (makes 1.5% agar plates)
 3. Cover top of flask with aluminum foil and place autoclave tape on top
 4. Turn on 55°C water bath
-4. [Autoclave](/protocols/autoclave-protocol.md)
+4. [Autoclave](https://github.com/mjmlab/protocols/blob/master/autoclave.md)
 5. After autoclaving, immediately place media in 55°C water bath and wait until cool enough to touch with bare hands
 6. When ready to pour plates, place flask on stir plate and stir at low speed (so bubbles aren't produced)
-   * If making plates with [antibiotics](/protocols/making-media-protocols.md#antibiotics), add antibiotic to flask at this point and let stir for 1 min
+   * If making plates with [antibiotics](/media.md#antibiotics), add antibiotic to flask at this point and let stir for 1 min
 7. Set up plates for pouring; keep the plastic sleeve the plates come in to store the poured plates
    * Use scissors to open sleeve of plates closest to the top seam (to get the most length out of the sleeve for reuse)
    * Stack plates in sets of 5 and line up on bench top
@@ -273,11 +271,11 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
 12. Leave plates out at room temperature to solidify along with a piece of tape labeled with the media type, date, and your initials
 13. After the plates are solidified, place them in a labeled plastic sleeve and place in the cold room on the appropriate shelf
 
-## Antibiotics
+### Antibiotics
 
 * Antibiotic stocks are kept in the -20°C freezer in a labeled styrofoam box
-* The numbers on the tubes of antibiotics refer to the concentration of antibiotic when the entire contents (1 mL) of the tube are added to 1 L of media (i.e. when you add a tube labeled Kan50 to 1 L of LB, you get LB Kan50)
-  * If you need a concentration of antibiotic that is not indicated on a tube, then you'll have to do some math (i.e. to make LBS Kan100, add 2 tubes of Kan50 to 1 L of LBS)
+* The numbers on the tubes of antibiotics refer to the concentration of antibiotic when the entire contents (1 mL) of the tube are added to 1 L of media (i.e. when you add a tube labeled Kan50 to 1 L of LB, you get LB-Kan50)
+  * If you need a concentration of antibiotic that is not indicated on a tube, then you'll have to do some math (i.e. to make LBS-Kan100, add 2 tubes of Kan50 to 1 L of LBS)
 * Antibiotics should be added to media AFTER autoclaving and after the media has cooled to a usable temperature (or else the antibiotics could degrade)
 * Fully thaw antibiotics just before adding them to media
 * Allow the media to stir for ~1 min after adding antibiotics
