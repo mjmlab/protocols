@@ -6,7 +6,7 @@
 * When closing containers with aluminum foil:
   * Foil should be double layered (take a big piece and fold it in half)
   * Make sure foil is large enough to generously cover container (foil goes about 1/3 of the way down)
-* [Autoclave protocol](../protocols/autoclave-protocol.md)
+* [Autoclave protocol](/autoclave.md)
 
 ## Microfuge tubes
 
@@ -65,7 +65,7 @@
 
 * There are 3 types of glycerol tube stocks we use: red-, yellow-, and white-capped tubes
 * Red-capped tubes get filled with 600 uL of 50% glycerol, yellow- and white-capped tubes get filled with 300 uL of 50% glycerol
-  * [50% glycerol recipe](https://github.com/mjmlab/protocols/blob/master/media.md#glycerol-50-vv)
+  * [50% glycerol recipe](/media.md#glycerol-50-vv)
 * Place tubes in Wheaton rack
 * Unscrew tube caps but leave caps on the tubes
 * Add glycerol to tubes
