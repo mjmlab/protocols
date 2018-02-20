@@ -6,7 +6,7 @@
 * When closing containers with aluminum foil:
   * Foil should be double layered (take a big piece and fold it in half)
   * Make sure foil is large enough to generously cover container (foil goes about 1/3 of the way down)
-* [Autoclave protocol](../protocols/autoclave-protocol.md)
+* [Autoclave protocol](/autoclave.md)
 
 ## Microfuge tubes
 
