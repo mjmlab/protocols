@@ -138,4 +138,6 @@ The purpose of using many independent mating spots is to ensure that even if a m
 ## Strain specifics* 
 | MJM | Strain | Notes |
 ------|--------|-------------------
-2255 | 1198binK | Sticky, so centrifuge donor at 9000rcf for 1min on Day 1
+MJM2255 | 1198binK | Sticky, so centrifuge donor at 9000rcf for 1min on Day 1
+MJM1198 | MJM1100Rscs * |  Sticky, so centrifuge donor at 9000rcf for 1min on Day 1
+MJM1130 | MB11B1 | Erythromycin concentration is high to decrease background
