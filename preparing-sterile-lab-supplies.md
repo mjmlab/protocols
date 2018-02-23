@@ -34,7 +34,7 @@
 
 ## Glass beads
 
-* Using the little "scoop" in the clean beads container, scoop ~5 glass beads into racked 13 mm glass tubes
+* Using the little "scoop" in the clean beads container, scoop 5 glass beads into racked 13 mm glass tubes
 * Cap the tubes
 * Place piece of autoclave tape over top of tubes (don't need to individually tape the tubes)
 * Autoclave
