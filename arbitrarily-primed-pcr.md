@@ -100,8 +100,17 @@ Purify each sample with the Qiagen QIAquick PCR Purification Kit. Elute in 50 μ
 
 ## Sequencing
 
-Check by Nanodrop. Yield should be 5-20 ng/ul; concentrate with a DNA Speedvac if concentration <5 ng/μl, and submit for DNA sequencing.
+Check concentration by Nanodrop. Yield should be 5-20 ng/ul; concentrate with a DNA Speedvac if concentration <5 ng/μl, and submit for DNA sequencing.
 
+## Analysis
+
+The round 2 primers anneal within the transposon facing outwards, so the first part of the sequence read will be specific to the transpson. For pMarVF1 (primer MJM-477), this includes the first 145 bp; for pJNW684 (primer MJM-716), this will be the first 109 bp. The sequence you will want to BLAST occurs after CCAACCTGTTA, where the TA is the site of insertion into the chromosome. If the BLAST results give chromosomal coordinates, be sure it matches to the first base after this sequence and not to another part of the read, since that could indicate a PCR artefact. Note the location of the insertion and if the homology is increasing or decreasing.
+
+### To orient the transposon, follow this table:
+| Gene direction on chromosome         | Read is increasing | Read is decreasing |
+| ----------------                     | -------------:   | ------------:   |
+| Plus strand (transcribed right)       | anti-directional | co-directional  |
+| Minus strand (transcribed left)      | co-directional   | anti-directional|
 
 ## Scaling Up
 
