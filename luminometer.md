@@ -48,6 +48,8 @@ Note: For luminescence reading of cultures, vortex for a precise time prior to r
 
 This only needs to be conducted once in the lifetime of the instrument (unless memory is reset, etc.).
 
-**Kinetics**: OFF
-**Frequency**: 1/1 sec
+**Kinetics**: OFF.
+
+**Frequency**: 1/1 sec.
+
 **Integration 1**: 6 sec, **Total number of measurements**: 10
