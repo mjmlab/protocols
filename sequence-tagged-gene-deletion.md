@@ -22,4 +22,7 @@ The overall approach is summarized below:
 
 ## *tfoX* Transformation and Screening/Sequencing Candidates
 
-## Removal of Erm<sup>R</sup> by FLP Recombinase
+## Removal of Erm<sup>R</sup> by FLP Recombinase and Screening/Sequencing Candidates
+
+## Adding Deletion Strains to Database
+\* Barcode in notes?
