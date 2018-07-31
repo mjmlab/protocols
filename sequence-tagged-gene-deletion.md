@@ -1,0 +1,3 @@
+# Sequence Tagged Gene Deletion
+
+This protocol describes...
