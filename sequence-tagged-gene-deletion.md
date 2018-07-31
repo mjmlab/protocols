@@ -7,6 +7,6 @@ This technique then allows for the excision of the Erm<sup>R</sup> cassette by e
 The resulting scar is in-frame (reduces likelihood of polar effects on gene expression) and carries a barcode that allows identification of the specific deletion strain through sequencing.
 One important detail is that the start codon and the last 7 aa (including stop codon) of the targeted gene are preserved and form part of the deletion scar.
 
-<IMG SRC="../images/sequence-tagged-gene-deletion/sequence-tagged-gene-deletion-approach.png" WIDTH=500>
+<IMG SRC="/images/sequence-tagged-gene-deletion/sequence-tagged-gene-deletion-approach.png" WIDTH=300>
 
 kadfj
