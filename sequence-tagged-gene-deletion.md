@@ -8,9 +8,17 @@ The resulting scar is in-frame (reduces likelihood of polar effects on gene expr
 One important detail is that the start codon and the last 7 aa (including stop codon) of the targeted gene are preserved and form part of the deletion scar.
 The overall approach is summarized below:
 
-<IMG SRC="/images/sequence-tagged-gene-deletion/sequence-tagged-gene-deletion-approach.png" WIDTH=300>
+<IMG SRC="/images/sequence-tagged-gene-deletion/sequence-tagged-gene-deletion-approach.png" WIDTH=350>
 
 ## Oligo Design
+
+<IMG SRC="/images/sequence-tagged-gene-deletion/Oligos-Gene-Deletion.png" WIDTH=700>
+<br><br>
+Oligos F1 and R1-LUH amplify 1Kb upstream of target gene including the start codon, while oligos F2-RUH and R2 amplify the 1 Kb downstream of target gene including the last 7 and stop codons.
+Oligo FO anneals 1.5 Kb upstream of target gene and is used to amplify from outside the junction of the mutation to verify insertion of cassette in correct genomic location.
+Oligos FW and RW anneal within target gene and should produce no product from a successful gene deletion strain.
+
+1. 
 
 ## Ordering Oligos
 
