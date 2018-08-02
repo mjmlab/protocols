@@ -8,7 +8,7 @@ The resulting scar is in-frame (reduces likelihood of polar effects on gene expr
 One important detail is that the start codon and the last 7 aa (including stop codon) of the targeted gene are preserved and form part of the deletion scar.
 The overall approach is summarized below:
 
-<IMG SRC="/images/sequence-tagged-gene-deletion/sequence-tagged-gene-deletion-approach.png" WIDTH=500>
+<IMG SRC="/images/sequence-tagged-gene-deletion/sequence-tagged-gene-deletion-approach.png" WIDTH=425>
 
 ## Oligo Design
 
