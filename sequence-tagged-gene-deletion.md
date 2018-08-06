@@ -36,9 +36,9 @@ Oligos can be ordered in tubes or in 96-well plates (24 oligos minimum; select "
 \* Oligos are generally ordered at the 25 nm scale, where oligo size is limited to 60 bp for tubes and 80 bp for 96-well plate.
 If oligos are larger than the allowed size (usually R1-LUH and F2-RUH), delete bases from the 5'-end of the oligo until size is reduced to the allowed size (up to 5 bp can be deleted without causing issues downstream; I haven't tested longer deletions); otherwise you can order in 100 nm scale, though this is not recommended for plates as you will have to order a separate plate for each synthesis scale.
 
-5. Once you are sure that your order is set up correctly, place order in IDT, which will take you back to Shop@UW, then follow the prompts to finish the order.
-6. Record order in Mandel Lab supplies log.
-7. Once oligos arrive, record order as received, add TE to 100 µM, then prepare 10 µM working dilutions of the oligos (when using plates, prepare the 10 µM working dilutions in 0.2 mL striptubes; this allows the use of a multichannel pipette and ensures appropriate storage of the oligos).
+4. Once you are sure that your order is set up correctly, place order in IDT, which will take you back to Shop@UW, then follow the prompts to finish the order.
+5. Record order in Mandel Lab supplies log.
+6. Once oligos arrive, record order as received, add TE to 100 µM, then prepare 10 µM working dilutions of the oligos (when using plates, prepare the 10 µM working dilutions in 0.2 mL striptubes; this allows the use of a multichannel pipette and ensures appropriate storage of the oligos).
 
 ## Amplification of Upstream (US) and Downstream (DS) Homology Arms
 
