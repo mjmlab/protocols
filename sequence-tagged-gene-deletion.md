@@ -14,14 +14,17 @@ The overall approach is summarized below:
 
 <IMG SRC="/images/sequence-tagged-gene-deletion/Oligos-Gene-Deletion.png" WIDTH=900>
 <br><br>
-Oligos F1 and R1-LUH amplify 1Kb upstream of target gene including the start codon, while oligos F2-RUH and R2 amplify the 1 Kb downstream of target gene including the last 7 codons (last 6 aa and the stop codon).
+Oligos F1 and R1-LUH amplify 1Kb upstream of target gene including the start codon, while oligos F2-RUH and R2 amplify the 1 Kb downstream of target gene including the last 7 codons.
 Oligo FO anneals 1.5 Kb upstream of target gene and is used to amplify from outside the junction of the mutation to verify insertion of cassette in correct genomic location.
 Oligos FW and RW anneal within target gene and should produce no product from a successful gene deletion strain.
 
+I use Benchling to design my oligos, so the following instructions are assuming you are also using Benchling.
+Otherwise, you can adapt the oligo design to whatever approach you use.
+
 1. Generate a sequence file containing the gene of interest and 2 Kb of flanking sequence.
-2. Substitute the coding sequence of the gene of interest with the barcoded Erm<sup>R</sup>-Marker within the start codon and the last 7 aa plus stop codon of the gene of interest. [Example: *ΔcueR*::erm-bar.](https://benchling.com/s/seq-b4AyxNqFLv25wjchrTqZ)
-3. Using the distances shown in the image above as a guide, select oligos with a Tm = 60 ± 3°C (verify Tm with the "Analyze" function of [IDT's OligoAnalyzer 3.1 tool](https://www.idtdna.com/calc/analyzer)). \*Make sure oligo R1 starts with the start codon of the gene of interest, while F2 should include the last 7 codons.
-4. Attach the reverse complement of LUH to R1 and RUH to F1 to form the R1-LUH and F1-RUH oligos (LUH Reverse complement = CTGGCGAAGCATATATAAGAAGCTCGTCTCGT; RUH = GACTTGACCTGGATGTCTCTACCCACAAGATCG).
+2. Substitute the coding sequence of the gene of interest with the barcoded Erm<sup>R</sup>-Marker within the start codon and the last 7 aa plus stop codon of the gene of interest. [Example: Δ*cueR*::erm-bar.](https://benchling.com/s/seq-b4AyxNqFLv25wjchrTqZ)
+3. Using the distances shown in the image above as a guide, design oligos with a Tm = 60 ± 3°C (verify Tm with the "Analyze" function of [IDT's OligoAnalyzer 3.1 tool](https://www.idtdna.com/calc/analyzer)). \*Make sure oligo R1 starts with the start codon of the gene of interest, while F2 should include the last 7 codons.
+4. Attach the reverse complement of LUH to the 5'-end of R1 and RUH to 5'-end of F2 to form the R1-LUH and F2-RUH oligos (LUH Reverse complement = CTGGCGAAGCATATATAAGAAGCTCGTCTCGT; RUH = GACTTGACCTGGATGTCTCTACCCACAAGATCG).
 5. Calculate the predicted secondary structures for the oligos using the "Hairpin" function of [IDT's OligoAnalyzer 3.1 tool](https://www.idtdna.com/calc/analyzer) and reject oligos with predicted structures with a Tm ≥ ~45°C.
 
 ## Ordering Oligos
@@ -56,3 +59,5 @@ If oligos are larger than the allowed size (usually R1-LUH and F2-RUH), delete b
 
 ## Adding Deletion Strains to Database
 \* Barcode in notes?
+
+## Final Deletion Verification
