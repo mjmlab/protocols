@@ -46,9 +46,13 @@ If oligos are larger than the allowed size (usually R1-LUH and F2-RUH), delete b
 
 ## SOE-PCR and Generation of Mutagenic DNA
 
-## *tfoX* Transformation and Screening/Sequencing Candidates
+## *tfoX* Transformation
 
-## Removal of Erm<sup>R</sup> by FLP Recombinase and Screening/Sequencing Candidates
+## Screening and Sequencing Δ*gene*::erm-bar Candidates
+
+## Removal of Erm<sup>R</sup> by FLP Recombinase
+
+## Screening and Sequencing Δ*gene*::bar Candidates
 
 ## Adding Deletion Strains to Database
 \* Barcode in notes?
