@@ -36,8 +36,8 @@ Oligos can be ordered in tubes or in 96-well plates (24 oligos minimum; select "
   - In tubes: select "bulk input", download an oligo input template, fill in your oligos, then upload to IDT.
   - 96-well plate: select "upload plate", download the "Excel plate ordering template", fill in your oligos, and upload. Name your plate with a unique but simple name, as oligo location is entered into Mandel Lab database in the "Plate, well" format. Under "plate specifications", select "normalized yield" for "normalization type", and "calculate" the "quantity (nmol)" and input the max option (e.g., 4-5 nmol).
 
-\* Oligos are generally ordered at the 25 nm scale, where oligo size is limited to 60 bp for tubes and 80 bp for 96-well plate.
-If oligos are larger than the allowed size (usually R1-LUH and F2-RUH), delete bases from the 5'-end of the oligo until size is reduced to the allowed size (up to 5 bp can be deleted without causing issues downstream; I haven't tested longer deletions); otherwise you can order in 100 nm scale, though this is not recommended for plates as you will have to order a separate plate for each synthesis scale.
+\* Oligos are generally ordered at the 25 nmole scale, where oligo size is limited to 60 bp for tubes and 80 bp for 96-well plate.
+If oligos are larger than the allowed size (usually R1-LUH and F2-RUH), delete bases from the 5'-end of the oligo until size is reduced to the allowed size (up to 5 bp can be deleted without causing issues downstream; I haven't tested longer deletions); otherwise you can order in 100 nmole scale, though this is not recommended for plates as you will have to order a separate plate for each synthesis scale.
 
 4. Once you are sure that your order is set up correctly, place order in IDT, which will take you back to Shop@UW, then follow the prompts to finish the order.
 5. Record order in Mandel Lab supplies log.
