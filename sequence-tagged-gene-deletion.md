@@ -27,6 +27,9 @@ Otherwise, you can adapt the oligo design to whatever approach you use.
 4. Attach the reverse complement of LUH to the 5'-end of R1 and RUH to 5'-end of F2 to form the R1-LUH and F2-RUH oligos (LUH Reverse complement = CTGGCGAAGCATATATAAGAAGCTCGTCTCGT; RUH = GACTTGACCTGGATGTCTCTACCCACAAGATCG).
 5. Calculate the predicted secondary structures for the oligos using the "Hairpin" function of [IDT's OligoAnalyzer 3.1 tool](https://www.idtdna.com/calc/analyzer) and reject oligos with predicted structures with a Tm ≥ ~45°C.
 
+\* If you are working with FLP sites, avoid generating oligos to FLP sites.
+Since it's a palindrome the oligo will likely form a hairpin and not work as intended in a PCR.
+
 ## Ordering Oligos
 1. Sign in to [Shop@UW](https://mds.bussvc.wisc.edu/order/shopper_lookup.asp) using the Mandel Lab login, select "Shop at External Suppliers & UW-Madison MDS Warehouse",
  and navigate to IDT's webpage.
