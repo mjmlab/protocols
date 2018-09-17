@@ -32,9 +32,9 @@ Typical running buffer for SDS-PAGE is Tris/Glycine/SDS buffer.
    pH should be 8.3
     
     
-Dilute 10x stock to make 1x solution. It takes 1250mL (not 1L as stated) to fill the tank up to the top.
-    - 125mL of 10x stock
-    - 1125mL of DI H2O
+Dilute 10x stock to make 1x solution. It takes 1250mL (not 1L as stated) to fill the tank up to the top.  
+    - 125mL of 10x stock  
+    - 1125mL of DI H2O  
 
 ### Sample Buffer
 All samples should be dissolved/diluted in sample buffer prior to loading
@@ -53,8 +53,8 @@ All samples should be dissolved/diluted in sample buffer prior to loading
             
    dH2O to 100 ml
            
-** Prepare 2X buffer without reducing agent (DTT or B-Me) and store at room temperature. 
-DTT: Prepare frozen DTT aliquots (1 M) according to Sambrook & Russell (2001) Appendix I.  Immediately before use, prepare 1X reducing sample buffer by mixing 5 ml room temperature stock with 1 ml DTT and 4 ml dH2O. Retain at 4°C and use within 24 hours.
+** Prepare 2X buffer without reducing agent (DTT or B-Me) and store at room temperature.   
+DTT: Prepare frozen DTT aliquots (1 M) according to Sambrook & Russell (2001) Appendix I. Immediately before use, prepare 1X reducing sample buffer by mixing 5 ml room temperature stock with 1 ml DTT and 4 ml dH2O. Retain at 4°C and use within 24 hours.
 
 
 ### Gel
@@ -77,6 +77,7 @@ The Mandel lab currently uses the following ladder: Thermo Scientific™ PageRul
 Instead of staining, TGX stain-free gels can be used and bands are visualized fluorescently. NOTE: Denise tried these with our gel doc and it did not work as described. We may be missing the correct filter. 
 
 **Coomassie Stain**
+
 Amount | Reagent
 -- | --
 0.25 g | Coomassie Brilliant Blue (R250)
@@ -87,6 +88,7 @@ Amount | Reagent
 Dissolve stain, then filter with Whatman No. 1 filter paper to remove insoluble material.
 
 **Coomassie Destain**
+
 Amount | Reagent
 -- | --
 500 ml | Methanol
