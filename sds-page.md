@@ -7,33 +7,33 @@ We have the mini-protean and criterion system from Biorad.
 See [guide](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_1658100.pdf) for more detail on reagents and protocol.
 
 ### Supplies
--[Running buffer](#running-buffer)
--[Sample buffer](#sample-buffer)
--[gel](#gel)
--[Ladder](#ladder)
+- [Running buffer](#running-buffer)  
+- [Sample buffer](#sample-buffer)  
+- [gel](#gel)
+- [Ladder](#ladder)
 
 #### Running buffer
 Typical running buffer for SDS-PAGE is Tris/Glycine/SDS buffer.  
 
 1. Create a 10x stock of buffer
-    -Get premade 10x stock from Biorad (10x Tris/Glycine/SDS #1610732)
-    -Make buffer
-      -25mM Tris (30g Tris base)
-      -192mM Glycine (144g glycine)
-      -0.1% SDS (10g SDS)
-      -dissolve reagents in DI water (1L)
-      -pH 8.3
+    - Get premade 10x stock from Biorad (10x Tris/Glycine/SDS #1610732)
+    - Or make buffer
+      - 25mM Tris (30g Tris base)
+      - 192mM Glycine (144g glycine)
+      - 0.1% SDS (10g SDS)
+      - dissolve reagents in DI water (1L)
+      - pH 8.3
 1. Dilute 10x stock to make 1x solution
     It takes 1250mL (not 1L as stated) to fill the tank up to the top.
-    -125mL of 10x stock
-    -1125mL of DI H2O
+    - 125mL of 10x stock
+    - 1125mL of DI H2O
 
 #### Sample Buffer
 All samples should be dissolved/diluted in sample buffer prior to loading
 
 1. 2x Laemmli buffer can be bought from Biorad (#1610737)
 1. Take out aliquot of buffer needed and add B-Me
-    -50ul of beta-mercaponethanol added to 950ul of Laemmli Buffer
+    - 50ul of beta-mercaponethanol added to 950ul of Laemmli Buffer
 1. Add 1 part buffer to 1 part protein samples
 
 #### Gel
@@ -55,8 +55,8 @@ The Mandel lab currently uses the following ladder: Thermo Scientific™ PageRul
 ### Protocol
 1. Unpackage gel - remove green strip from base and remove comb
 1. Set up gel in electrode assembly.
-    -If only one gel, use glass casting pieces as buffer dam
-    -Make sure wells face inside of the unit
+    - If only one gel, use glass casting pieces as buffer dam
+    - Make sure wells face inside of the unit
 1. Use green clamps to secure gels
 1. Place electrode assembly into tank
 1. Pour running buffer into tank starting by filling the electrode assembly
@@ -71,5 +71,5 @@ The Mandel lab currently uses the following ladder: Thermo Scientific™ PageRul
 1. When run is complete, remove gel from apparatus. Use green lever and insert between plastic plates where black arrows indicate.
 
 ## Criterion System
-Used for larger gels. Not yet used in Madison.
+Used for larger gels. Not yet used in Madison.  
 See [guide](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_4006183A.pdf) for more detail on reagents and protocol.
