@@ -17,12 +17,13 @@
 | Chloramphenicol |    <font color='red'>RED</font>    | Cam  |          25           |  100% ethanol   |   |
 |  Erythromycin   |  <font color='green'>GREEN</font>  | Erm  |          10           |  100% ethanol   |   |
 |    Kanamycin    |   <font color='blue'>BLUE</font>   | Kan  |          50           | dH<sub>2</sub>0 | Filter |
-|  Tetracycline   | <font color='purple'>PURPLE</font> | Tet  |          10           |  100% ethanol   | Keep dark (foil wrap) |
+|  Tetracycline   | <font color='purple'>PURPLE</font> | Tet  |          10           |  100% ethanol (dH<sub>2</sub>0 if tetracycline HCl)   | Filter if dissolved in dH<sub>2</sub>0. Keep dark (foil wrap) |
 
 Note that the dry erythromycin is stored at room temperature.
 
 For each stock aliquot approximately 700 μl per microfuge tube and store at -20 °C.
 
+Note that there is additional information about making antibiotic-containing media listed under [`media`](media.md).
 
 
 
@@ -46,4 +47,4 @@ For each stock aliquot approximately 700 μl per microfuge tube and store at -20
 | Chloramphenicol |    <font color='red'>RED</font>    |      LBS-Cam<sup>5</sup>      | 200 μl |
 |  Erythromycin   |  <font color='green'>GREEN</font>  |      LBS-Erm<sup>5</sup>      | 500 μl |
 |    Kanamycin    |   <font color='blue'>BLUE</font>   |     LBS-Kan<sup>100</sup>     | 2,000 μl |
-|  Tetracycline   | <font color='purple'>PURPLE</font> |     LBS-Tet<sup>15</sup>      | 500 μl |
+|  Tetracycline   | <font color='purple'>PURPLE</font> |     LBS-Tet<sup>5</sup>       | 500 μl |
