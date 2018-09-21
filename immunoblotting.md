@@ -61,15 +61,17 @@ Amount | Reagent
 88g | NaCl
 1L | H2O
 
-Check that pH is 7.6 (mix of Tris-HCl and Tris base should make sure it is close)
+Check that pH is 7.6 (mix of Tris-HCl and Tris base should make sure it is close). 
 
 **1x TBS-T:**
 
-Amount | Reagent
+Amount | Reagent 
 -- | --
 100 ml | 10x TBS
 900 ml | DI H2O
 1 ml | Tween-20  
+
+In 1x buffer, concentrations should be 20mM Tris and 150mM NaCl.  
 
 ### Blocking Buffer
 Blocking buffer is 5% milk (w/v) in 1x TBS-T.  
