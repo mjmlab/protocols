@@ -10,3 +10,6 @@
 * Press "Start"
 * When dishes are finished washing, place them on rack above sink in the back of the lab so they can dry
 * When dishes are dry, put them away
+
+
+asdf
