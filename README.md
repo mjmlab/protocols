@@ -24,6 +24,7 @@
 - [Glycerol stocks](glycerol-stocks.md)
 - [Luminescence reading in a single tube luminometer](luminometer.md)
 - [Transformation using tfoX induction](tfox-transformation.md)
+- [Wrinkled Colony Assay](wrinkled-colony-assay.md)
 
 ### Lab Maintenance
 - [Preparing sterile supplies](preparing-sterile-lab-supplies.md)
