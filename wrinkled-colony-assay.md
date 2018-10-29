@@ -5,12 +5,12 @@ The following protocol is used to spot, image, and analyze biofilm formation usi
 ## Spotting strains:
 
 1. Grow overnight liquid cultures of each strain needed for the Assay
-  - Do not forget to include controls. This includes parent strains, empty vectors, etc.
-  - Consider if antibiotic is needed and if controls need that resistance to be spotted on the same plate as the sample.
+    - Do not forget to include controls. This includes parent strains, empty vectors, etc.
+    - Consider if antibiotic is needed and if controls need that resistance to be spotted on the same plate as the sample.
 1. Spot 8ul of each strain in duplicate for each temperature/condition needed.
-  - Make sure plate has antibiotic is needed. Note that some antibiotics have an effect on biofilm formation.
-  - Up to 6 spots per plate is ideal, but 8 can be done if you stagger spots to optimize distance from plate edge and each other.
-  - Strains on the same plate are best for comparison. Consider keeping one control on all plates if you cannot get all samples on one plate.
+    - Make sure plate has antibiotic is needed. Note that some antibiotics have an effect on biofilm formation.
+    - Up to 6 spots per plate is ideal, but 8 can be done if you stagger spots to optimize distance from plate edge and each other.
+    - Strains on the same plate are best for comparison. Consider keeping one control on all plates if you cannot get all samples on one plate.
 1. Place plates at desired temperatures. Do not flip upside-down as this can misshape undried spots
 1. At the 24 hour mark, remove plates from incubator and take a picture on the Leica EZ4 Steromicroscope
 1. Place plates back in incubator
@@ -30,7 +30,7 @@ The Leica microscope should be set as follows to take the biofilm pictures.
 - Light should be all the way up on 5
 - Zoom should be all the way out 0.63
 
-![](images/spot_assay/scope_set_up.png)
+<IMG SRC="images/spot_assay/scope_set_up.png" WIDTH=25%></IMG>
 
 #### Software
 The defaults should be correct, but this is the set-up if something got changed:
@@ -38,7 +38,7 @@ The defaults should be correct, but this is the set-up if something got changed:
 - Color is Auto
 - Images saved as TIFFs
 
-![](images/spot_assay/software_set_up.png)
+<IMG SRC="images/spot_assay/software_set_up.png" WIDTH=50%></IMG>
 
 ## Image processing:
 Use the following to process biofilm pictures and make a figure:
