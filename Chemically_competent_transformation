@@ -1,0 +1,15 @@
+# Chemically competent DH5α λpir transformation 
+#### Protocol from Sourabh Dhingra 
+
+1.	Obtain the required number of Competent cells from -80C and put them on ice. Let them thaw on ice.
+2.	Label the tubes for transformation plus a positive and negative and put them on ice so tubes are cold before you transfer the cells.
+3.	Once cells are thawed and tubes are cooled aliquot the amount of competent cells in each tube. (e.g If competent cells tube have 200 ul and you are doing a vector only and vector plus insert you can divide 50ul in 4 tubes including positive and negative)
+4.	Transfer your DNA to the appropriately labeled tube and mix by pipetting 2-3 times.
+5.	Leave all samples on ice for 15 mins.
+6.	Place in water bath at 37C for Exactly 2 mins. Do not leave the room. Be close to the tubes.
+7.	After 2 mins take them out and place them on ice.
+8.	Add 500ul of LB media and mix by pipetting .
+9.	Put in rotating shaker for 45 mins to 4 hours.
+10.	Plate 200ul on selective medium (Medium + antibiotic).
+11.	Incubate O/N
+12.	Do colony PCR of about 5 colonies to check the presence of your insert. (the colonies growing on positive plate can act as negative control for your colony PCR)
