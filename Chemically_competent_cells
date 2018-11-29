@@ -1,0 +1,45 @@
+# DH5α λpir Chemically compentent cells 
+#### Modified from protocol written by Sourabh Dhingra by Katie Bultman 
+
+1.	Inoculate 3-4 mls of LB in test tube with DH5α λpir (MJM537). Grow with rapid shaking O/N.
+2.	Inoculate four 250 ml flask with 50 ml of 2X LB in each with 1ml of O/N culture.
+3.	Grow at 37C, 250 rpm to reach an OD600 = 0.3
+4.	Add 4 mls of 1M MgCl2
+5.	Grow as in step 3 to OD600 = 0.45-0.55
+6.	Cool on ice for 2 hours.
+7.	Spin at 3000g for 5 mins. One flask in one tube. Rotor should be 4˚C
+a.	Can use either swinging bucket or fixed rotor 
+8.	Resuspend cells in 25 mls of chilled CaCl2 media each. Do not vortex.
+9.	Place in ice for 40 mins, after spin at 3000g for 5 mins at 4C
+10.	Resuspend cells in 1.2 mls of chilled CaCl2 media + Glycerol.
+11.	Aliquot 200 μl in cold sterile micro centrifuge tubes.
+12.	Store at -80˚C (-70˚C also fine).
+
+**Recipes:**
+_2X LB (400 ml)_
+Tryptone = 8.0 g
+Yeast Extract = 4.0g
+NaCl = 4g
+Autoclave
+
+_CaCl2 + Glycerol (100mL)_
+CaCl2 Media  = 85.0 ml
+Glycerol = 15.0ml
+Filter
+
+_CaCl2 Media (500mL)_
+CaCl2.2H2O = 7.35g
+MnCl2  . 4H2O = 6.93 g
+Sodium Acetate = 2.72 g
+pH 5.5
+Filter
+
+_1M MgCl2 (100ml)_
+MgCl2 . 6H2O = 20.3g
+Filter
+
+
+
+
+
+
