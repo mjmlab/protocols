@@ -1,5 +1,7 @@
 # Mandel Lab Protocols
 
+[![DOI](https://zenodo.org/badge/53515435.svg)](https://zenodo.org/badge/latestdoi/53515435)
+
 ### Molecular Biology
 - [Gene Deletion in *V. fischeri*](gene-deletion.md)
 - [Gibson Assembly](gibson-assembly.md)

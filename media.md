@@ -63,7 +63,7 @@ For plates, add 15 g Agar and a stir bar. Cool in the 55 °C bath prior to pouri
 |           700 ml | Instant Ocean [1]      |
 | to 1000 ml total | with dI H<sub>2</sub>O |
 
-[1] Dispense from an “E” tripour into a laboratory graduated cylinder or beaker. Ensure that media glassware does not touch squid “E” areas or Instant Ocean source barrels.
+[1] Instant Ocean at 35 ppt. Dispense from an "E" tripour into a laboratory graduated cylinder or beaker. Ensure that media glassware does not touch squid "E" areas or Instant Ocean source barrels.
 
 ### LB
 
