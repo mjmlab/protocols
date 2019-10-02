@@ -8,6 +8,7 @@
 	- [SWT](#swt)
 	- [LB](#lb)
 	- [BHI](#bhi)
+	- [TBS](#tbs)
 - [Minimal Media](#minimal-media)
 	- [Tris minimal medium](#tris-minimal-medium)
 - [General media recipes](#general-media-recipes)
@@ -92,6 +93,19 @@ For plates, add 15 g Agar and a stir bar. Cool in the 55 °C bath prior to pouri
 |-----------------:|:----------------------------|
 |             37 g | Brain Heart Infusion powder |
 | to 1000 ml total | with dI H<sub>2</sub>O      |
+
+
+### TBS
+
+`Tryptone broth`
+
+|           Amount | Reagent                                         |
+|-----------------:|:------------------------------------------------|
+|             10 g | Bacto-tryptone                                  |
+|             20 g | NaCl                                            |
+|            50 ml | [Tris (1 M, pH 7.5)](buffers.md#tris-1-m-ph-75) |
+| to 1000 ml total | with dI H<sub>2</sub>O                          |
+
 
 
 ## Minimal Media
