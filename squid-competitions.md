@@ -19,7 +19,8 @@ Alternatively strains could be differentiated with resistance markers or fluores
 1. Measure the OD600 of the sample prior to inoculation. Typical measurements are 0.15-0.4 depending on the strain.
 1. For a target inoculum of a total 3-5 x 10<sup>3</sup> CFU/ml with a 50/50 mix calculate the inoculum volume as follows: Inoculum volume (μl) = 1.25 / OD600. **Multiply this number by 50. For each competition add (1.25 / OD600) * 50 = ul of each strain to the tube. Vortex well to mix. Divide the total volume in the tube by 100** and add this amount directly to the seawater containing the squid in Step 4.1. This calculation may need to be adjusted for different strains of *V. fischeri* or for inoculation at lower or higher levels than those specified here.
 
-Example calculation:
+Example calculation:  
+
 Strain   | OD   | 1.25/OD | ul to add
 ---------|------|---------|----------
 Strain A | 0.25 |   5 ul  |  250 ul
@@ -86,18 +87,20 @@ Mix together 250 ul Strain A and 210 ul of Strain B in a microtube. Add 4.6 ul (
 1. Plate 50 μl of each dilution onto **LBS-Xgal agar**, 2 replicates per treatment.
 1. Incubate the plates at 25-28°C for **36-48 hours to allows blue color to develop in pVSV103 containing bacteria.**
 
-Note: If using antibiotics to mark different strains, plate dilutions from squid onto LBS first. Then patch 100 colonies onto LBS and selective media. Some strains do not grow well on selective media when immediately coming from the squid.
+**Note: If using antibiotics to mark different strains, plate dilutions from squid onto LBS first. Then patch 100 colonies onto LBS and selective media. Some strains do not grow well on selective media when immediately coming from the squid.**
 
 ##### 6. Data Analysis
 
 1. **To calculate the Competitive Index**, count colonies on the dilution plates for each treatment in which 10-400 colonies are present. Note the number of blue vs white colonies.
-1. **Calculate the competitive index
+1. **Calculate the competitive index**
       - Calculate the ratio of white:blue for the inoculum in step 4.3
       - Calculate the ratio of white:blue for the output plates in step 6.1
       - Normalize the ratios output to the input by dividing the output by the input
       - Take the log10 to transform the normalized ratio into the competitive index. This helps with visualization when graphing.
-      Equation:
-      competitive index = Log10 ((White/Blue)<sub>output</sub> / (White/Blue)<sub>inoculum</sub> )**
+
+      Equation:  
+      competitive index = Log10 ((White/Blue)<sub>output</sub> / (White/Blue)<sub>inoculum</sub> )  
+      
 1. Plot individual data points and medians, **centering 0 as the middle of the axis.**
 1. The data are often not normally distributed, with different variances, and the outliers may contain biologically meaningfully information. Therefore, non-parametric tests provide a useful method to determine whether the treatments differ significantly.
 1. Use GraphPad Prism software or Python for statistical analysis. For two treatments, use the Wilcoxon Rank Sum test. For comparisons among greater than two treatments, use the Kruskal-Wallis test with appropriate post-tests.

@@ -1,30 +1,31 @@
 # Luminescence assay
 
-This protocol overviews how to perform a culture-based assay to assess luminescence quorum sensing in *vibrio fischeri*  
+This protocol overviews how to perform a culture-based assay to assess luminescence quorum sensing in *Vibrio fischeri*  
 Please note that the protocol takes 8 hours on one day and requires you to be present once an hour to take readings.
 
 ## Supplies
 
-Media: SWTO
-SWTO is a variant of seawater trytone (SWT) media with the addition of extra NaCl to be a closer osmolarity to seawater are cited in [Bose & Stabb et al (2007) Mol Micro](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2958.2007.05809.x).
+Media: SWTO  
+SWTO is a variant of seawater trytone (SWT) media with the addition of extra NaCl to be a closer osmolarity to seawater as cited in [Bose & Stabb et al (2007) Mol Micro](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2958.2007.05809.x).
 
 |           Amount | Reagent                |
 |-----------------:|:-----------------------|
 |              5 g | Bacto-Tryptone         |
 |              3 g | Yeast Extract          |
 |             6 ml | 50% Glycerol           |
-|           700 ml | Instant Ocean [1]      |
+|           700 ml | Instant Ocean          |
 |           8.76 g | NaCl (150 mM)          |
 | to 1000 ml total | with dI H<sub>2</sub>O |
 
 ## Protocol
 
-**Day 0**
+**Day 0**  
 Make overnight cultures of desired strains in 3ml of LBS.
 
-**Day 1**
+**Day 1**  
 Subculture the overnight 1/1000 into 3ml SWTO in a culture tube and culture with aeration at 25C. Duplicate or triplicate tubes can be made for technical replicates for each strain being tested  
-Every hour, do the following to take measurements:
+
+Every hour, do the following to take measurements:  
 1. Remove tube from incubator and read OD600 of entire tube in the WPA Biowave CO8000 cell density meter.
 1. Remove 100 ul from the culture tube into a 1.7 ml  microtube.
 1. Place culture tubes back on the incubator
