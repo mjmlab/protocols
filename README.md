@@ -23,6 +23,7 @@
 - [Electrocompetent Cells](electrocompetent-cells.md)
 - [Glycerol stocks](glycerol-stocks.md)
 - [Luminescence reading in a single tube luminometer](luminometer.md)
+- [Luminescence assay in cultures](luminescence-assay.md)
 - [Transformation using tfoX induction](tfox-transformation.md)
 - [Wrinkled Colony Assay](wrinkled-colony-assay.md)
 
