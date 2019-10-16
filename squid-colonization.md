@@ -1,5 +1,7 @@
 # Squid colonization
 
+The [competition protocol](squid-competitions.md) uses the same scaffold as this protocol, so any changes to this protocol may also need to be reflected in that assay.
+
 ##### 1. Preparation of Bacterial Inocula
 
 1. **Day 0** - Two days prior to squid inoculation, plate the relevant bacterial strains on LBS agar.

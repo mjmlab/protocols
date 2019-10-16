@@ -1,9 +1,9 @@
-# Squid competitions
+# Competitive squid colonization assay
 
 This protocol is a variation of the [squid colonization protocol](squid-colonization.md) that has been modified for how to perform a competition between 2 bacterial strains. Steps bolded below highlight the differences between protocols.
 
 ## Supplies and Considerations
-Make sure one strain is labeled so strains can be differentiated from each other. This protocol specifically reviews marking one strain with the LacZ containing plasmid (pVSV103). [LBS-Xgal plates](media.md) will be needed to do blue/white screen to differentiate colonies.
+Make sure one strain is labeled so strains can be differentiated from each other. This protocol specifically reviews marking one strain with the LacZ containing plasmid (pVSV103). [LBS-Xgal plates](media.md#xgal-20-mgml) will be needed to do blue/white screen to differentiate colonies.
 
 Alternatively strains could be differentiated with resistance markers or fluorescence for microscopy. Make sure proper plates are prepared depending on the conditions needed to differentiate the strains.
 
@@ -32,7 +32,7 @@ Mix together 250 ul Strain A and 210 ul of Strain B in a microtube. Add 4.6 ul (
 
 ##### 2. Preparation of Agar Plates for Enumeration of the Inocula
 
-1. For each treatment, label **LBS-Xgal plates** (2 per treatment) to plate samples of the inoculum in Step 4.1. If LBS-Xgal plates are not available, [spread 100ul of 20 mg/ml Xgal solution](media.md) onto each plate and let soak in for 10 mins prior to plating.
+1. For each treatment, label **LBS-Xgal plates** (2 per treatment) to plate samples of the inoculum in Step 4.1. If LBS-Xgal plates are not available, [spread 100ul of 20 mg/ml Xgal solution onto each plate as directed here](media.md#xgal-20-mgml).  
 1. Add 5 sterile plating beads per plate.
 
 ##### 3. Collection of Squid Juveniles
@@ -85,7 +85,7 @@ Mix together 250 ul Strain A and 210 ul of Strain B in a microtube. Add 4.6 ul (
 1. For the [B] dilution, add 25 μl [A] to one of the microcentrifuge tubes prepared in Step 5.1. Vortex.
 1. For the [C] dilution, add 25 μl [B] to one of the microcentrifuge tubes prepared in Step 5.1. Vortex.
 1. Plate 50 μl of each dilution onto **LBS-Xgal agar**, 2 replicates per treatment.
-1. Incubate the plates at 25-28°C for **36-48 hours to allows blue color to develop in pVSV103 containing bacteria.**
+1. Incubate the plates at 25-28°C for **36-48 hours to allow blue color to develop in pVSV103 containing bacteria. If blue colonies are still hard to distinguish, placing plates at 4°C may help color develop further.**
 
 **Note: If using antibiotics to mark different strains, plate dilutions from squid onto LBS first. Then patch 100 colonies onto LBS and selective media. Some strains do not grow well on selective media when immediately coming from the squid.**
 
@@ -93,16 +93,18 @@ Mix together 250 ul Strain A and 210 ul of Strain B in a microtube. Add 4.6 ul (
 
 1. **To calculate the Competitive Index**, count colonies on the dilution plates for each treatment in which 10-400 colonies are present. Note the number of blue vs white colonies.
 1. **Calculate the competitive index**
-      - Calculate the ratio of white:blue for the inoculum in step 4.3
-      - Calculate the ratio of white:blue for the output plates in step 6.1
-      - Normalize the ratios output to the input by dividing the output by the input
-      - Take the log10 to transform the normalized ratio into the competitive index. This helps with visualization when graphing.
 
-      Equation:  
-      competitive index = Log10 ((White/Blue)<sub>output</sub> / (White/Blue)<sub>inoculum</sub> )  
-      
+      competitive index = Log<sub>10</sub> ((White/Blue)<sub>output</sub> / (White/Blue)<sub>inoculum</sub> )  
+
+      Notes on equation:    
+      - (White/Blue)<sub>inoculum</sub> = number of white colonies divided by blue colonies for the inoculum in step 4.3
+      - (White/Blue)<sub>output</sub> = number of white colonies divided by blue colonies for the output plates in step 6.1
+      - Taking the Log<sub>10</sub> transforms the data into competitive index for better visualization. If the white strain wins, the competitive index will be positive. If the blue strain wins the index will be negative. Values close to zero indicate equal competitive fitness.
+
 1. Plot individual data points and medians, **centering 0 as the middle of the axis.**
 1. The data are often not normally distributed, with different variances, and the outliers may contain biologically meaningfully information. Therefore, non-parametric tests provide a useful method to determine whether the treatments differ significantly.
 1. Use GraphPad Prism software or Python for statistical analysis. For two treatments, use the Wilcoxon Rank Sum test. For comparisons among greater than two treatments, use the Kruskal-Wallis test with appropriate post-tests.
 
-Citation: [Naughton LM, Mandel MJ. 2012. Colonization of *Euprymna scolopes* squid by *Vibrio fischeri*. J Vis Exp 61:e3758, doi: 10.3791/3758.](http://www.jove.com/video/3758/colonization-of-euprymna-scolopes-squid-by-vibrio-fischeri)
+Citations:   
+[Naughton LM, Mandel MJ. 2012. Colonization of *Euprymna scolopes* squid by *Vibrio fischeri*. J Vis Exp 61:e3758, doi: 10.3791/3758.](http://www.jove.com/video/3758/colonization-of-euprymna-scolopes-squid-by-vibrio-fischeri)  
+[Dunn AK, Millikan DS, Adin DM, Bose JL, Stabb EV. 2006. New rfp- and pES213-derived tools for analyzing symbiotic *Vibrio fischeri* reveal patterns of infection and lux expression in situ. Appl Environ Microbiol. 72(1):802-10, doi: 10.1128/AEM.72.1.802-810.2006](https://www.ncbi.nlm.nih.gov/pubmed/16391121)
