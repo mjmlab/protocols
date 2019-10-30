@@ -33,7 +33,10 @@ Measuring aggregation of bacterial cells in the squid host requires higher inocu
 
 ##### 5. Image animals
 
+If you plan to fix or stain animals, proceed with the [fixation and staining protocol](squid-fix-stain.md) at this point.
+
 1. Anesthetize animals in 2% EtOH/FSIO and mix gently (i.e., in a conical tube).
 1. Transfer the animal to a depression well slide dissect off the mantle and funnel, and image.
+
 
 Citation: [Mandel MJ, Schaefer AL, Brennan CA, Heath-Heckman EAC, Deloney-Marino CR, McFall-Ngai MJ, Ruby EG. 2012. Squid-derived chitin oligosaccharides are a chemotactic signal during colonization by Vibrio fischeri. Appl Environ Microbiol 78:4620–4626.](https://www.ncbi.nlm.nih.gov/pubmed/22522684)
