@@ -60,7 +60,7 @@ Store at -20 and protect from light.
 
 This will stain the squid tissue red.
 
-1. Once squid is dissected, stain with Toto-3 (1:650 in 1X mPBS with 1% Triton-X). This is done in 1 ml of stain in a 2 ml microtube. All squid per condition may be placed in a single tube.
+1. Once squid is fixed and dissected, stain with Toto-3 (1:650 in 1X mPBS with 1% Triton-X). This is done in 1 ml of stain in a 2 ml microtube. All squid per condition may be placed in a single tube.
 1. Incubate for 1 hour in dark with motion (wrap tubes with foil and use Hula Mixer in microscope room).
 1. Rinse 2 times for 15 minutes with 1X mPBS with 1% Triton-X
 1. Rinse 2 times for 15 minutes with 1X mPBS
