@@ -44,8 +44,8 @@ Mix the following in a 2ml microtube
 Use immediately and do not store. Be careful to limit exposure of stain to light.
 
 ### WGA-633 1 mg/ml stock
-WGA-633 (Wheat Germ Agglutinin, Alexa Fluor 633 Conjugate) is Molecular Probes W21404
-Mix 1 mg of powder into 1 ml.  
+WGA-633 (Wheat Germ Agglutinin, Alexa Fluor 633 Conjugate) is Molecular Probes W21404  
+Mix 1 mg of powder into 1 ml DI water.  
 Store at -20 and protect from light.  
 
 ## Fixation of Squid
