@@ -43,8 +43,10 @@ Mix the following in a 2ml microtube
 
 Use immediately and do not store. Be careful to limit exposure of stain to light.
 
-### Alexa 633 stain
-TBD
+### WGA-633 1 mg/ml stock
+WGA-633 (Wheat Germ Agglutinin, Alexa Fluor 633 Conjugate) is Molecular Probes W21404
+Mix 1 mg of powder into 1 ml.  
+Store at -20 and protect from light.  
 
 ## Fixation of Squid
 
@@ -66,6 +68,20 @@ This will stain the squid tissue red.
 
 ## Staining with Alexa 633
 
-This will stain mucus with far red.
+This will stain mucus with far red. There are two different protocols for either staining the surface of the light organ or deeper crypts.
 
-Protocol TBD
+### Light organ surface
+1. Upon completion of a squid experiment, individual squid should be in drosophila vials with 4 ml FSIO
+1. Add 1:1000 of 1 mM CellTracker Orange. Incubate 2-5 minutes.
+1. Wash 3x in FSIO
+1. Add 1:100 of 1 mg/ml stock of WGA-633. Incubate 10 minutes
+1. Wash squid 3x in FSIO
+1. Anesthetize squid in 2% EtOH and dissect for visualization
+
+### Crypts
+1. Upon completion of a squid experiment, individual squid should be in drosophila vials with 4 ml FSIO
+1. Add 1:1000 of 1 mM CellTracker Orange. Incubate for 30 minutes
+1. Wash squid 3x in FSIO
+1. Add 1:100 of 1 mg/ml stock of WGA-633.
+1. Wash squid 3x in FSIO
+1. Anesthetize squid in 2% EtOH and dissect for visualization
