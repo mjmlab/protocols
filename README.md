@@ -35,7 +35,6 @@
 ### Squid
 - [Colonization](squid-colonization.md)
 - [Colonization for aggregates](squid-colonization-aggregates.md)
-- [Fixation and staining](squid-fix-stain.md)
 - [Colonization for INSeq](squid-colonization-inseq.md)
 - [Competition assay](squid-competitions.md)
 - [Fixation and staining](squid-fix-stain.md)
