@@ -3,7 +3,7 @@
 After completing an [aggregation](squid-colonization-aggregates.md) or other [squid colonization](squid-colonization.md) protocol, follow this procedure to fix squid and apply any tissue stains.
 
 - [Reagents](#reagents)
-- [Fixation](#fixation)
+- [Fixation](#fixation-of-squid)
 - [Staining of squid](#staining-of-squid)
   - [Toto-3](#counterstaining-squid-with-Toto-3)
   - [CellTracker Orange CMRA](#counterstaining-squid-with-celltracker-orange-cmra)
