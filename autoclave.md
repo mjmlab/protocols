@@ -27,7 +27,7 @@
    * Wear protective gloves and be careful&mdash;items will be very hot
    * If autoclaving media with agar for pouring plates, immediately put media in 55°C water bath
    * For other liquids, leave out at room temperature
-9. If autoclaving dry items, crack open the autoclave door about a couple inches and let items dry for a couple hours or overnight, then take out of autoclave
+9. If autoclaving dry items, crack open the autoclave door about a couple inches and let items dry for a few hours or overnight, then take out of autoclave
    * Items will still be hot after drying, so wear protective gloves when handling the items
 10. If autoclaving liquids, immediately rinse out the autoclave bin with hot water to clean out any boil-over
 11. If autoclaving biohazardous waste:
