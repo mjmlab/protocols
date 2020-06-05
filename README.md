@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/53515435.svg)](https://zenodo.org/badge/latestdoi/53515435)
 
 ### Safety Plan
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Safety plan for COVID-19, Updated 2020-03-23](safety-covid-19.md)
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Lab safety, Updated 2020-06-05](safety-covid-19.md)
 
 ### Molecular Biology
 - [Gene Deletion in *V. fischeri*](gene-deletion.md)
