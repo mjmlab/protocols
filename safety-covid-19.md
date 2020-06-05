@@ -14,7 +14,7 @@ Today's update reflects the new phase in which the lab is fully open to the exte
 
 1. **Practice social distancing.** At any given time, there should be a maximum of four (4) people in the main lab, and a maximum of one (1) person per smaller room (offices, squid facility, microscope rooms). See the Google Doc Denise prepared for coordination.
 
-There is a maximum of 1 person per bay and 1 person per pair of facing benches at any given time. This means that all researchers should face the same direction or that there should be at least 1 completely empty bay between researchers facing each other. To facilitate optimal lab use, we have divided the lab into "teams" of three researchers each. Each week by Friday 9:00 am, the team assigned for the subsequent week (Monday-Sunday) should sign up for their preferred times in the lab. After 9:00 am Friday, members of the other team can fill in additional times. We will see how well this works and reevaluate as we move forward. Please be respectful of time needed by your colleagues and work with each other to optimize everyone's success here.
+    - There is a maximum of 1 person per bay and 1 person per pair of facing benches at any given time. This means that all researchers should face the same direction or that there should be at least 1 completely empty bay between researchers facing each other. To facilitate optimal lab use, we have divided the lab into "teams" of three researchers each. Each week by Friday 9:00 am, the team assigned for the subsequent week (Monday-Sunday) should sign up for their preferred times in the lab. After 9:00 am Friday, members of the other team can fill in additional times. We will see how well this works and reevaluate as we move forward. Please be respectful of time needed by your colleagues and work with each other to optimize everyone's success here.
 
 1. **Masks are required.** Cloth or disposable masks are required when in MSB. The lab has disposable masks if needed. Although disposable, these masks can be reused; leave in a paper bag for 3 days. Replace the mask whenever there is evidence that they are failing.
 
@@ -36,5 +36,6 @@ There is a maximum of 1 person per bay and 1 person per pair of facing benches a
 
 ## Additional resources
 
-[OVCRGE Phased Resumption of Research Operations During COVID-19 Pandemic, May 27, 2020](Phased Resumption of Research Operations During COVID-19 Pandemic)
+[OVCRGE Phased Resumption of Research Operations During COVID-19 Pandemic, May 27, 2020](https://research.wisc.edu/wp-content/uploads/sites/2/2020/05/OVCRGE-Research-Phase-1-Guide.pdf)
 
+[SMPH COVID-19 Information](https://intranet.med.wisc.edu/updates-to-smph-operations-covid-19/)
