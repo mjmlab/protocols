@@ -16,7 +16,7 @@ Insert DNA cassette containing the gene of interest from KPPR1(MJM2383) into the
 
 ## Transform recipient vector into recipient strain
 
-Introduce pSTNSK into KPPR1 via electroporation.
+Introduce pSTNSK into KPPR1 strain with respective deleted gene via electroporation.
 
 1.   Inoculate 100 mL LB with 1 mL of overnight culture. Incubate at 30C with stir bar at ~500 rpm until it reaches OD<sub>600</sub> of 0.6 to 0.8 (approximately 4 hours). 
 2.   Centrifuge cells at 6500 rpm for 5 min. Remove supernatant and wash twice with 50 mL of ice cold glycerol (resuspend with glycerol and then centrifuge it again). 
