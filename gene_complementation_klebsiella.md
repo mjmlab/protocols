@@ -8,7 +8,7 @@ Insert DNA cassette containing the gene of interest from KPPR1(MJM2383) into the
 
 1.  Use Snapgene to make an *in silico* insert DNA cassette approximately 500 bp downstream and upstream of the gene of interest.
 2.	Make Primers on NEBuilder according to the [Gibson Assembly Protocol](https://github.com/mjmlab/protocols/blame/master/gibson-assembly.md).
-      * Use the [pGP-Tn7-Gm backbone](https://www.ncbi.nlm.nih.gov/nuccore/JQ429758.1?report=gbwithparts&log$=seqview) as the vector fragment, and amplify the vector from base pairs 1880 to 1810 (The MCS of the backbone).
+      * Use the [pGP-Tn7-Gm backbone](https://www.ncbi.nlm.nih.gov/nuccore/JQ429758.1?report=gbwithparts&log$=seqview) as the vector fragment, and amplify the vector from base pairs 1871 to 1824 (The MCS of the backbone).
       * Add the *in silico* insert DNA cassette as a fragment to the vector.
 3.  Use the primers from NEBuilder to perform Gibson Assembly.
 4.  Using heat shock, transform the donor strain vector into chemically competent S17-1 λ pir *E. coli* cells (MJM661).
