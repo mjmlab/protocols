@@ -16,14 +16,16 @@ Insert DNA cassette containing the gene of interest from KPPR1(MJM2383) into the
 
 ## Transform recipient vector into recipient strain
 
-Introduce pSTNSK into KPPR1 strain with respective deleted gene via electroporation.
+Introduce pSTNSK-Cm into KPPR1 strain with respective deleted gene via electroporation.
 
 1.   Inoculate 100 mL LB with 1 mL of overnight culture. Incubate at 30C with stir bar at ~500 rpm until it reaches OD<sub>600</sub> of 0.6 to 0.8 (approximately 4 hours). 
 2.   Centrifuge cells at 6500 rpm for 5 min. Remove supernatant and wash twice with 50 mL of ice cold glycerol (resuspend with glycerol and then centrifuge it again). 
 3.   Resuspend cells in residual glycerol solution after final wash. Mix 50 uL of dense suspended cells with 1 ug of plasmid DNA and electroporate 2500 mV. Add 900 uL SOC medium immediately after electroporation.
-4.   Incubate sample for 1 hour at 30 degrees C on a rotary shaker at 150 rpm and plate onto low salt LB-Kan50 plates.
-5.   Incubate plates at 30 degrees C overnight and PCR Screen for pSTNSK in colonies. 
-6.   Freeze successful colonies and use for complementation.
+4.   Incubate sample for 1 hour at 30 degrees C on a rotary shaker at 150 rpm and plate onto low salt LB-Cam25 plates.
+5.   Incubate plates at 30 degrees C overnight.
+6.   Streak colonies onto low salt LB-Cam25 plates, and then again the next day.
+7.   PCR Screen for pSTNSK-Cm. 
+8.   Freeze successful colonies and use for complementation.
 
 
 ## Deliver Tn7 into Klebsiella
