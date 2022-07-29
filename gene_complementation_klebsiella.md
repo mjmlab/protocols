@@ -20,7 +20,7 @@ Introduce pSTNSK-Cm into KPPR1 strain with respective deleted gene via electropo
 
 1.   Inoculate 100 mL LB with 1 mL of overnight culture. Incubate at 30C with stir bar at ~500 rpm until it reaches OD<sub>600</sub> of 0.6 to 0.8 (approximately 4 hours). 
 2.   Centrifuge cells at 6500 rpm for 5 min. Remove supernatant and wash twice with 50 mL of ice cold glycerol (resuspend with glycerol and then centrifuge it again). 
-3.   Resuspend cells in residual glycerol solution after final wash. Mix 50 uL of dense suspended cells with 1 ug of plasmid DNA (<= 6 uL) in an electroporation cuvette. Use the manual mode on the electroporation machine and use the arrows to increase the voltage to 2.5V. Make sure that the cuvette is perfectly straight before pressing the pulse button, or else there's a very large chance of arcing. Add 900 uL SOC medium immediately after electroporation. 
+3.   Resuspend cells in residual glycerol solution after final wash. Mix 50 uL of dense suspended cells with 1 ug of plasmid DNA (<= 6 uL) in an electroporation cuvette. Use the manual mode on the electroporation machine and use the arrows to increase the voltage to 2.5V. Make sure that the cuvette is perfectly vertical before pressing the pulse button, or else there's a very large chance of arcing. Add 900 uL SOC medium immediately after electroporation. 
 4.   Incubate sample for 1 hour at 30 degrees C on a rotary shaker at 150 rpm and plate onto low salt LB-Cam25 plates.
 5.   Incubate plates at 30 degrees C overnight.
 6.   Streak colonies onto low salt LB-Cam25 plates, and then again the next day.
