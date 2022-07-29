@@ -20,7 +20,7 @@ Introduce pSTNSK-Cm into KPPR1 strain with respective deleted gene via electropo
 
 1.   Inoculate 100 mL LB with 1 mL of overnight culture. Incubate at 30C with stir bar at ~500 rpm until it reaches OD<sub>600</sub> of 0.6 to 0.8 (approximately 4 hours). 
 2.   Centrifuge cells at 6500 rpm for 5 min. Remove supernatant and wash twice with 50 mL of ice cold glycerol (resuspend with glycerol and then centrifuge it again). 
-3.   Resuspend cells in residual glycerol solution after final wash. Mix 50 uL of dense suspended cells with 1 ug of plasmid DNA and electroporate 2500 mV. Add 900 uL SOC medium immediately after electroporation.
+3.   Resuspend cells in residual glycerol solution after final wash. Mix 50 uL of dense suspended cells with 1 ug of plasmid DNA (<= 6 uL) in an electroporation cuvette. Use the manual mode on the electroporation machine and use the arrows to increase the voltage to 2.5V. Make sure that the cuvette is perfectly straight before pressing the pulse button, or else there's a very large chance of arcing. Add 900 uL SOC medium immediately after electroporation. 
 4.   Incubate sample for 1 hour at 30 degrees C on a rotary shaker at 150 rpm and plate onto low salt LB-Cam25 plates.
 5.   Incubate plates at 30 degrees C overnight.
 6.   Streak colonies onto low salt LB-Cam25 plates, and then again the next day.
@@ -37,7 +37,7 @@ Using classical mating, integrate the Tn7 transposon into the KPPR1 chromosome.
 3.  Remove all but 50 uL of LB from each tube and re-suspend each pellet in the remaining LB, then combine the resuspensions in a single tube. 
 4.  Plate all 100 uL of mixed suspension on an LB plate and incubate at 30 degrees Celsius for 5 or 18 hrs.
 5.  Use a cotton swab dipped in PBS to scrape up the cells, agitate to dislodge the bacteria in 1 mL of PBS in a 2 mL tube.
-6.  Create serial dilutions out to 10^-8, and plate out onto LB-GM plates.
+6.  Create serial dilutions out to 10^-4, and plate out onto LB-GM plates.
 7. Incubate plates at 42 C for 4 hours, then 37 C for 18 hrs.
 8. Streak out single colonies onto LB-Gm, LB-Carb, and LB-Km plates.
      * Look for resistance to Gm, sensitivity to Carb and Km.
