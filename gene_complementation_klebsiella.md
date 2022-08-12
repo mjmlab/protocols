@@ -35,12 +35,12 @@ Using classical mating, integrate the Tn7 transposon into the KPPR1 chromosome.
 1.  Start overnight cultures of the donor strain and the recipient strain.
 2.  Pellet 500 uL of donor and recipient strains in seperate Eppendorf tubes (5 min max speed, Klebsiella may need a longer spin since it doesn't form a tight pellet)
 3.  Remove all but 50 uL of LB from each tube and re-suspend each pellet in the remaining LB, then combine the resuspensions in a single tube. 
-4.  Plate all 100 uL of mixed suspension on an LB plate and incubate at 30 degrees Celsius for 5 or 18 hrs.
+4.  Plate all 100 uL of mixed suspension on an LB-DAP plate and incubate at 30 degrees Celsius for 5 hrs.
 5.  Use a cotton swab dipped in PBS to scrape up the cells, agitate to dislodge the bacteria in 1 mL of PBS in a 2 mL tube.
 6.  Create serial dilutions out to 10^-4, and plate out onto LB-GM plates.
 7. Incubate plates at 42 C for 4 hours, then 37 C for 18 hrs.
-8. Streak out single colonies onto LB-Gm, LB-Carb, and LB-Cam plates.
-     * Look for resistance to Gm, sensitivity to Carb and Cam.
+8. Streak out single colonies onto LB-Gm, LB-Carb, LB-Kan and LB-Cam plates.
+     * Look for resistance to Gm and Kan, sensitivity to Carb and Cam.
 9. Screen complementation candidates using PCR.
 10. Freeze successful candidates and send to MIGS for sequencing.
     
