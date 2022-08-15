@@ -11,8 +11,9 @@ Insert DNA cassette containing the gene of interest from KPPR1(MJM2383) into the
       * Use the [pGP-Tn7-Gm backbone](https://www.ncbi.nlm.nih.gov/nuccore/JQ429758.1?report=gbwithparts&log$=seqview) as the vector fragment, and amplify the vector from base pairs 1871 to 1824 (The MCS of the backbone).
       * Add the *in silico* insert DNA cassette as a fragment to the vector.
 3.  Use the primers from NEBuilder to perform Gibson Assembly.
-4.  Using heat shock, transform the donor strain vector into chemically competent β3916 E. *coli* cells (MJM628).
-5.  Use PCR screening to determine if the Gibson Assembly and transformation was successful.
+4.  Using heat shock, transform the donor strain vector into chemically competent β3914 E. *coli* cells (MJM628).
+     * In the future, use MJM1424
+6.  Use PCR screening to determine if the Gibson Assembly and transformation was successful.
 
 ## Transform recipient vector into recipient strain
 
