@@ -25,7 +25,7 @@ Introduce pSTNSK-Cm into KPPR1 strain with respective deleted gene via electropo
 4.   Incubate sample for 1 hour at 30 degrees C on a rotary shaker at 150 rpm and plate onto low salt LB-Cam25 plates.
 5.   Incubate plates at 30 degrees C overnight.
 6.   Streak colonies onto low salt LB-Cam25 plates, and then again the next day.
-7.   PCR Screen for pSTNSK-Cm. 
+7.   PCR Screen for pSTNSK-Cm.
 8.   Freeze successful colonies and use for complementation.
 
 
@@ -42,7 +42,9 @@ Using classical mating, integrate the Tn7 transposon into the KPPR1 chromosome.
 7. Incubate plates at 42 C for 4 hours, then 37 C for 18 hrs.
 8. Streak out single colonies onto LB-Gm, LB-Carb, LB-Kan and LB-Cam plates.
      * Look for resistance to Gm and Kan, sensitivity to Carb and Cam.
-9. Screen complementation candidates using PCR.
+9. Screen complementation candidates using PCR, looking for pGP-Gm, pSTNSK, and looking at the Tn7 site.
+     * If pSTNSK is still in the complemented strain, then streak onto LB-Gent10 and incubate at 42C for 5 hours again
+     * If pGP-Gm is still in the complemented strain, then streak onto LB, LB-Gent10, and LB-Carb100 until the strain is sensitive to Carb and resistant to Gent
 10. Freeze successful candidates and send to MIGS for sequencing.
     
 
