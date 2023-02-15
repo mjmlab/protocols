@@ -42,6 +42,9 @@
 ### Computational
 - [Git and GitHub](git-github.md)
 
+### Writing
+- [Style and Writing Guide](style.md)
+
 ### Equipment
 - [Autoclave](autoclave.md)
 - Gel Doc

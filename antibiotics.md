@@ -17,6 +17,8 @@
 | Chloramphenicol |    <font color='red'>RED</font>    | Cam  |          25           |  100% ethanol   |   |
 |  Erythromycin   |  <font color='green'>GREEN</font>  | Erm  |          10           |  100% ethanol   |   |
 |    Kanamycin    |   <font color='blue'>BLUE</font>   | Kan  |          50           | dH<sub>2</sub>0 | Filter |
+|  Spectinomycin  |   <font color='lime'>LIME</font>   | Spc  |          50           | dH<sub>2</sub>0 | Filter |
+
 |  Tetracycline   | <font color='purple'>PURPLE</font> | Tet  |          10           |  100% ethanol (dH<sub>2</sub>0 if tetracycline HCl)   | Filter if dissolved in dH<sub>2</sub>0. Keep dark (foil wrap) |
 
 Note that the dry erythromycin is stored at room temperature.
@@ -35,6 +37,7 @@ Note that there is additional information about making antibiotic-containing med
 | Chloramphenicol |    <font color='red'>RED</font>    |      LB-Cam<sup>25</sup>      | 1,000 μl |
 |  Erythromycin   |  <font color='green'>GREEN</font>  |     BHI-Erm<sup>150</sup>     | 150 mg dry (or 15 ml) |
 |    Kanamycin    |   <font color='blue'>BLUE</font>   |      LB-Kan<sup>50</sup>      | 1,000 μl |
+|  Spectinomycin  |   <font color='lime'>LIME</font>   |      LB-Spc<sup>50</sup>      | 1,000 μl |
 |  Tetracycline   | <font color='purple'>PURPLE</font> |      LB-Tet<sup>15</sup>      | 1,500 μl |
 
 

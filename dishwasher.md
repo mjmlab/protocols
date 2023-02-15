@@ -8,5 +8,6 @@
   * Make sure lids are face-down
 * Turn on dishwasher
 * Press "Start"
-* When dishes are finished washing, place them on rack above sink in the back of the lab so they can dry
+* When dishes are finished washing, place them on rack above sink next to the glassware cabinet so they can dry
 * When dishes are dry, put them away
+  * Note: Pyrex bottles and flasks need to be autoclaved before being put away

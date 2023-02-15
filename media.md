@@ -319,6 +319,7 @@ When adding to autoclaved media prior to pouring, add 3 μl Thymidine solution p
 | Erythromycin (Erm)    | 5 ug/mL                          | 10 mg/uL            | 500 ul                             |
 | Kanamycin (Kan)       | 50 ug/mL                         | 50 mg/uL            | 1 mL                               |
 | Kanamycin (Kan)       | 100 ug/mL                         | 50 mg/uL           | 2 mL                               |
+| Spectinomycin (Spc)   | 50 ug/mL                         | 50 mg/uL            | 1 mL                               |
 | Tetracycline (Tet)    | 15 ug/mL                         | 10 mg/uL            | 1.5 mL                             |
 | Tetracycline (Tet)    | 5 ug/mL                          | 10 mg/uL            | 500 uL                             |
 | Carbenicillin (Carb)  | 100 ug/mL                        | 100 mg/uL           | 1 mL                               |
