@@ -36,7 +36,7 @@ Plate freshness: Fresh LBS plates seem to help a lot.  If possible, use them the
 
 Citation: [Stabb EV, Ruby EG. RP4-based plasmids for conjugation between Escherichia coli and members of the Vibrionaceae. Meth Enzymol (2002) vol. 358 pp. 413-26](http://www.ncbi.nlm.nih.gov/pubmed/12474404)
 
-# Triparental Conjugation into Klebsiella
+## Triparental Conjugation into Klebsiella
 
 This is a protocol describing the triparental conjugation of Tn7 transposon and Tn7 transposase plasmids into a deletion strain of KPPR1. The complementation of VK055_1398 into its deletion strain is used as an example.
 
