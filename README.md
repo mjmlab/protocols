@@ -4,7 +4,6 @@
 
 ### Molecular Biology
 - [Gene Deletion in *V. fischeri*](gene-deletion.md)
-- [Gene Complementation in *K. Pneumoniae*](gene_complementation_klebsiella.md)
 - [Gibson Assembly](gibson-assembly.md)
 - [dNTP stocks for PCR](molecular-dntps.md)
 - [Semi-arbitrarily-primed PCR to identify transposon insertion sites](arbitrarily-primed-pcr.md)
