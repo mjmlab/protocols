@@ -42,7 +42,7 @@
 
 Note that the dry erythromycin is stored at room temperature.
 
-For each stock aliquot approximately 700 μl per microfuge tube and store at -20 °C.
+For each stock aliquot approximately 1000 μl per microfuge tube and store at -20 °C.
 
 Note that there is additional information about making antibiotic-containing media listed under [`media`](media.md).
 
