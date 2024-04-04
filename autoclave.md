@@ -26,8 +26,10 @@
 ## Biohazard Plate Trash (orange bag)
 - The orange biohazard bags contain agar plates and cannot be run on a “Dry” load or they will boil over in the tray and make a huge mess. These must always be run on cycle P14, and the bags shouldn’t be so full that they bulge way out over the tray.
 - Once the run is finished, stick a green “Ok to Trash” sticker on them and the bags should be tossed into the trashcan in the autoclave room.
-  - **THE LIQUID IN THE TRAY CANNOT BE PUT DOWN THE DRAIN**. This isn’t water, but actually some melted agar that will resolidify and clog pipes if it goes down the sink. Instead, take the tray to the “Daily Bin Bucket”, an instant ocean bucket you have put an orange autoclave bag into. Pour the liquid into the bag and rinse the tray clean in the sink of any remaining residue.
-  - **AT THE END OF THE DAY YOU MUST TIE UP THE BAG, STICK AN “OK TO TRASH” STICKER ON IT, AND TOSS IT INTO THE AUTOCLAVE ROOM TRASH.** Bin Buckets left to sit for >1 day will quickly grow new bacteria/mold and become a new biohazard/horrific stench glob. If you do run into this situation, autoclave the bag with the autoclave room’s door closed and toss it in the trash.
+  - **THE LIQUID IN THE TRAY CANNOT BE PUT DOWN THE DRAIN**. This isn’t water, but actually some melted agar that will resolidify and clog pipes if it goes down the sink.
+  - Instead, take the tray to the “Daily Bin Bucket”, an instant ocean bucket you have put an orange autoclave bag into. Pour the liquid into the bag and rinse the tray clean in the sink of any remaining residue.
+  - **AT THE END OF THE DAY YOU MUST TIE UP THE BAG, STICK AN “OK TO TRASH” STICKER ON IT, AND TOSS IT INTO THE AUTOCLAVE ROOM TRASH.**
+    - Bin Buckets left to sit for >1 day will quickly grow new bacteria/mold and become a new biohazard/horrific stench glob. If you do run into this situation, autoclave the bag with the autoclave room’s door closed and toss it in the trash.
 ## Dry Supplies
 - Typically, dry supplies are run at the end of the day.
   - The reasoning for this is that condensation tends to build up in our supplies, and if you leave them overnight, the condensation will evaporate out.
