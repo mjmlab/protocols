@@ -1,0 +1,32 @@
+# Making Tris Buffer
+
+- Begin by grabbing a 2 liter plastic beaker from the cabinet next to the biosafety hood and bringing it to the media bench.
+- Grab a mega weighboat and measure out 254 grams of Tris Hydrochloride and 47.2 grams of Tris Base and add them to the beaker.
+- Add DI water to the 1.9 liter mark on the flask.
+  - DO NOT USE THE MARKINGS ON THE GRAD CYLINDER!!! This is super important! The salts take up volume, which means 1.9 liters of water is not actually 1.9 liters in the flask. Please fill to the 1.9 liter mark on the beaker, NOT the grad cylinder! 
+- Throw in a large stir bar and get the salts completely dissolved (there should be no remaining crystals or clumps). 
+- Calibrate the pH meter and use clamps to hold in the beaker. 
+  - To calibrate:
+    - Begin by removing the parafilm around the top of the probe.
+    - You will notice a hole. There is fluid in this probe, DO NOT pour it out of the probe and DO NOT put the hole into liquid! Ultimately, don’t mess with the liquid in the probe unless the liquid is very low or completely evaporated from improper storage.
+      - In this event, fill with the storage solution found in the drawer under the pH meter.
+    - Prep calibration tubes by filling pre-labelled 50 mL conicals with their respective liquids.
+      - Next to the pH meter, you will find a red rack with three 50 mL conicals, labeled 4.01, 7.00, and 10.01. Fill each tube with their corresponding solution located in the drawer under the pH meter.
+      - You will know you have the correct solutions if they are pink, blue, and yellow in color.
+      - Add 10-15 mL of solution in each tube. You don’t need to fill the tubes to the top!
+    - Use the clamps to hold the probe in a conical with the 7 pH solution in it.
+      - Don’t let the probe touch the bottom.
+    - Turn on the machine and press calibrate. Wait until it has stabilized, and then remove the probe from liquid.
+    - Rinse probe with DI water using the squirt bottle. Collect this water in a tripour located next to the pH meter.
+    - Repeat previous steps with the 4 and 10 pH calibration fluids, rinsing with DI between each tube change.
+- Place the probe into your beaker, and hit ‘read’.
+- Gently stir the Tris Buffer to make sure all salts are diffused evenly.
+  - Wait until value stabilizes before proceeding.
+- Add 6M HCl, found in the acids cabinet, using the plastic pipette to lower the pH.
+- Begin with 3 full pipettes and gauge where you are at. Keep adding HCl until the buffer reaches a pH of 7.5.
+  - If you overshoot and you drop below 7.5, don’t panic, you will just need to add NaOH, found in the bases cabinet.
+- Once pH is achieved, remove the probe and rinse with DI.
+- Place it back into probe housing and wrap the hole with a small amount of parafilm.
+  - You need to hold the probe while wrapping or it will drop too deep into the holder.
+- Fill the beaker with DI water to the 2 liter mark and pour into a large carboy.
+- Change label tape on carboy to today's date, your initials, and the pH.
