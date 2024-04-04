@@ -10,34 +10,79 @@
 
 ## Microfuge tubes
 
-* There are several different sized microfuge tubes: 0.2, 0.5, 1.7, and 2 mL
-* Put tubes in tripours (large for 1.7 and 2 mL tubes, small for 0.2 and 0.5 mL tubes)
-* Cover top of tripour with aluminum foil
-* Label top of foil using Sharpie with size of tube
-* Place autoclave tape on seam between foil and container
-* Autoclave
+- Put tubes in tripours (large for 1.7 and 2 mL tubes, small for 0.2 and 0.5 mL tubes).
+ - Tripours can be found to the left of the water bath.
+ - Tubes should NOT be above the rim of the tripour.
+- Cover top of tripour with aluminum foil
+- Label top of foil using Sharpie with size of tube and date.
+- Place autoclave tape on the seam between foil and container (You only need one strip ~1.5 inch max.)
+- Autoclave with dry supplies (p8).
 
 ## Pipette tips
 
-* There are 3 sizes of pipette tips we refill boxes of for autoclaving: 10/20 uL, 200 uL, and 1200 uL
-* Pipette tip refills come in wafers that can just be inserted into empty tip boxes
-* When boxes are filled and ready to autoclave, put a piece of autoclave tape on seam between the lid and bottom of the box
-* Any tip box waste (empty wafers, plastic package the refill wafers come in) can be put in designated cardboard box for recycling
-* Autoclave
+- Our pipette tip station can be found to the right of the BioSafety hood in lab.
+- Remove wafers from old tip boxes and place the wafers in the cardboard box under the counter. The box will be refilled with new pipette tips.
+ - Pipette tip refills come in wafers that can just be inserted into empty tip boxes.
+- Insert wafer with new tips into empty pipette tip box.
+ - p10 tips have an extra guard on them! This guard needs to be removed before racking. DO NOT FORGET ABOUT THIS! If you forget, this can mess up our tip stocks and won’t fit into our tip boxes.
+- When boxes are filled and ready to autoclave, put a single piece of autoclave tape on the seam between the lid and bottom of the box.
+- Any tip box waste (empty wafers, plastic packages the refill wafers come in) can be put in designated cardboard box for recycling.
+  - When cardboard box is full of disposed tip box pieces, tape shut with packing tape and label with an ‘OK to Trash’ sticker.       - Write with a Sharpie “PLEASE RECYCLE” as large as possible. This tells our custodians that this container may be recycled.        - Place outside the door with other cardboard to be recycled.
+- Autoclave with dry supplies.
+
+
 
 ## Culture tubes
 
-* Put red culture tube caps on glass 16 mm culture tubes
-* Put capped culture tubes in square metal cage for autoclaving
-* Place piece of autoclave tape over top of tubes (don't need to individually tape the tubes)
-* Autoclave
+- Put red culture tube caps on glass 16 mm culture tubes.
+ - When loading tubes, don’t try to force the red cap onto a tube if it doesn’t fit. Just try a different cap.
+- Put capped culture tubes in a square metal cage for autoclaving with cap side facing outward.
+ - Place the tubes in neatly, do NOT force them into the cage. This can crack the tubes!
+- Place piece of autoclave tape over top of tubes (don't need to individually tape the tubes)
+- Autoclave with dry supplies (p8).
+
+
+## Culture tube disposal
+
+- Lab members will place their used culture tubes to the left of the sink. Begin by removing all the caps from these tubes.
+- Spray a squirt of 10% bleach into each tube.
+ - You do NOT need more than a short squirt of bleach in each tube! V. fischeri is incredibly wimpy, and bleach does the job very efficiently. Same goes for E. coli cultures, even a short squirt will be sufficient in killing all the bacteria.
+- Let sit for 10 minutes to make sure all bacteria have been exposed.
+- Use an empty tube rack to hold the tubes in place, and invert to dump all liquid out of the tubes (see image below).
+- Once empty, discard the tubes in the glass trash.
+ - (If glass is full, see Glass Disposal section.)
+
 
 ## Glass beads
 
-* Using the little "scoop" in the clean beads container, scoop 5 glass beads into racked 13 mm glass tubes
-* Cap the tubes
-* Place piece of autoclave tape over top of tubes (don't need to individually tape the tubes)
-* Autoclave
+### Cleaning Beads
+- **DAY 1**: Collect all the dirty beads used around the lab.
+ - Please return the dirty bead containers if you take them from someone's bench!
+- Pour dirty beads into the tripour labeled “RBS”.
+- Fill the container with 10% RBS so that all of the beads are fully submerged and let them sit overnight.
+  - You can find the 10% RBS solution under the media sink, next to the bleach and hand soap.
+- **DAY 2**: Pour the dirty beads into the strainer and rinse thoroughly with DI water.
+- Place into a different tripour and fill with just enough 70% ethanol to completely submerge the beads.
+- Let soak overnight.
+- **DAY 3**: Rinse using DI water in the strainer.
+- Pour the beads onto the bead tray (special small red tray above the bead station) lined with Supersoak paper towel (white roll)
+- Let dry overnight.
+- **DAY 4**: Pour into the clean bead container and you’re good to go!
+
+
+### Racking Clean Beads
+- Before racking, take a stroll around the lab and collect all caps.
+ - If you take someone's container off of their bench, please return it to their rightful owner!
+- Take the container of clean beads and use the makeshift scooper in it to place 5 glass beads per tube.
+  - If all scoopers are gone, you can make more by clipping 2mL eppi tubes of a size suitable for 5 beads.
+- After placing the beads in the tubes, put the caps on all the tubes.
+- Place a small piece of autoclave tape on the top of the tubes and set aside to be autoclaved (autoclave tape is expensive!)
+- Once autoclaved, place the new racks behind the old racks.
+
+
+### What do I do if one of the tubes breaks?
+- No worries! Stuff happens. We have a stock of small 13mm glass tubes ready to replace old and/or broken tubes on the shelf above the bead racking station. Carefully dispose of the broken glass in the glass disposal trash, grab a new tube and you’re good to go!
+
 
 ## Long sticks
 
