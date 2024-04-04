@@ -26,7 +26,31 @@
 
 ## General information
 
-For plates, add 15 g Agar and a stir bar. Cool in the 55 °C bath prior to pouring, until the media can be touched with bare hands. Add [antibiotics](antibiotics.md) if required. Stir for approximately 1 min, then pour.
+- Do not put reagents back into the original containers if you accidentally take too much.
+	- This can contaminate reagents with the other chemicals from your weigh boat.
+- Use weigh boats in the drawer to place on scale and transfer solids into beakers.
+- Use the largest stirbars available and a flask that is 2x as large as the volume you are making.
+	- Ex. If I am preparing 1 liter of LBS, I would use a 2 liter Erlenmeyer flask.
+- Put aluminum foil on top, along with autoclave tape. Label the foil with the media type and your initials.
+	- Please don’t put tape on the flask unless necessary! The autoclave will paste it onto the side and it's extremely hard to remove.
+- Autoclave on p14 cycle (~90 minutes).
+	- DO NOT add more than 3 L of media in one cycle! 
+- Once media is done in the autoclave, place in the waterbath at 55 °C to cool for at least 30 minutes.
+- If you are making antibiotic media, do not add the antibiotics until after autoclaving.
+	- To add properly, place the flask on a hotplate at 55 °C and stir gently, making sure to not add bubbles. Then Add [antibiotics](antibiotics.md) and give 2-3 minutes to diffuse properly. 
+- When pouring plates, ignite a Bunsen Burner near you to decontaminate the air around you.
+	- Make sure the flame IS NOT UNDER THE WOOD SHELF!
+ - Once ignited, wrap a paper towel under the neck of the flask and pour slowly to avoid adding bubbles.
+	 - Make sure the paper towel does not touch the media being poured! This would contaminate all of the plates, as our paper towel is not sterile.
+- If poured correctly, you should yield about two sleeves of plates per liter of media.
+	- A good rule of thumb to follow to ensure the proper amount of media is in each plate is to pour slowly until the bottom is completely filled. AS SOON as the bottom is filled, stop pouring. 
+	- Pouring the correct amount of media takes time and practice. If your plates are too thin or too thick, ask a senior labmate for tips and tricks. Everyone has different methods that work for them, and they may have some good advice!
+- Once done pouring, rinse the flasks with HOT tap water, and then DI water.
+	- Cold tap water can cause the agar to harden, sticking to the glass. This is especially bad if an antibiotic media was in this flask. Place on the drying rack above the sink when done.
+- Flasks used with antibiotic media should be washed before reuse.
+- Let plates sit on the benchtop for two days.
+- After two days, place in plate sleeve and close with label tape with media type, date made, and initials.
+- Place it in the cold room on appropriate shelf against the back wall.
 
 ## Rich media
 
