@@ -52,6 +52,17 @@
 - After two days, place in plate sleeve and close with label tape with media type, date made, and initials.
 - Place it in the cold room on appropriate shelf against the back wall.
 
+## Using a Bunsen Burner
+
+- To ignite the Bunsen Burner: Turn on the gas until you can faintly hear the gas moving.
+- Next, take the striker and create a spark above the base of the burner until it ignites.
+- The flame should be a couple inches high, with a primarily blue color (see diagram for good example).
+  - You don’t want a crazy high outer cone, and you do not only want an inner cone.
+  - If this is not happening, turn the collar until the flame is the appropriate color and size.
+ 
+![image](https://github.com/Holschbachc/protocols/assets/89479578/e66090f6-64a2-4f81-99cc-1788604cf8c3)
+
+
 ## Rich media
 
 ### LBS
