@@ -108,13 +108,22 @@
 
 ## Glycerol tube stocks
 
-* There are 3 types of glycerol tube stocks we use: red-, yellow-, and white-capped tubes
-* Red-capped tubes get filled with 600 uL of 50% glycerol, yellow- and white-capped tubes get filled with 300 uL of 50% glycerol
-  * [50% glycerol recipe](media.md#glycerol-50-vv)
-* Place tubes in Wheaton rack
-* Unscrew tube caps but leave caps on the tubes
-* Add glycerol to tubes
-* Loosely screw caps down (not all the way)
-* Place autoclave tape on top of rack of tubes (don't need to individually tape tubes)
-* Autoclave
-* After autoclaving is finished, let tubes cool and then screw down caps all the way
+- Grab a bag of appropriately colored cryovials out of the drawer under the media station.
+ - Tubes come in red, yellow, and white varieties.
+- Place tubes on a cryovial rack and unscrew all caps.
+ - Empty racks can be found in the cabinet with the liquid media.
+- Load 50% glycerol into the tubes using a repeater pipette.
+ - If loading white/yellow vials, put 300 µL in each tube. If loading red, put 600 µL in each tube.
+ - The repeater pipette can be found in a drawer on the other side of the media bench by the window. Tips for the repeater pipette can be found directly above the drawer.      - Carefully attach a 10 mL tip onto the repeater pipette, making sure to not touch the tip.
+ - Once on, spin the blue wheel on the pipette to set how much liquid you want to be dispensed.
+ - Next, submerge the tip in the liquid and use the large slider to suck it up.
+ - Then, soft press the button once to initiate the pipette. From there on out, soft press once per cryovial.
+ - Once complete, push the slider all the way down and press the button. This will cause the tip to eject.
+ - Place the repeater pipette back in the drawer when finished.
+  - Note: If dispensing smaller volumes, an adapter may be needed to fit the tip on. This adapter can be located in the same drawer as the repeater pipette.
+- Screw on caps LOOSELY. You do NOT want them to be tight!
+ - If too tight, the pressure will cause the vials to explode in the autoclave.
+- Once loaded, add a small amount of autoclave tape and autoclave with a MEDIA CYCLE, since glycerol is a liquid.
+- Remove from the autoclave and let cool on the counter.
+- Once cooled, tighten each lid. We don’t want contamination in our vials!
+- Place vials in the cabinet behind existing stocks.
