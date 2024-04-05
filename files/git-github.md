@@ -19,6 +19,7 @@ This is a bit meta: a protocol to demonstrate how to contribute to the protocols
 	- [Pull Request: Now suggest this change to the lab](#pull-request-now-suggest-this-change-to-the-lab)
 - [Dealing with the situation where your Remote repo (`mandel01/protocols`) is different from the lab Upstream repo (`mjmlab/protocols`)](#dealing-with-the-situation-where-your-remote-repo-mandel01protocols-is-different-from-the-lab-upstream-repo-mjmlabprotocols)
 
+
 ## What is a repository/repo?
 
 A repository (repo) in a directory or folder in which `Git` is tracking changes. It is an effective method for version control and to collaborate on code and documents.
@@ -191,7 +192,7 @@ Other resources for Git and GitHub:
 
 Finding the url to clone any GitHub repo:
 
-![](images/github/github-clone-https.png)
+![](../images/github/github-clone-https.png)
 
 
 
@@ -205,19 +206,19 @@ Go to https://github.com/mjmlab/protocols
 
 Click on "Fork".
 
-![](images/github/fork1.png)
+![](../images/github/fork1.png)
 
 Select your personal account (if relevant).
 
-![](images/github/fork2.png)
+![](../images/github/fork2.png)
 
 The virtual copy machine will appear, and then you will have a forked version.
 
-![](images/github/fork3.png)
+![](../images/github/fork3.png)
 
 Some relevant items to note:
 
-![](images/github/your-fork.png)
+![](../images/github/your-fork.png)
 
 ```
 mandel01/protocols
@@ -255,23 +256,23 @@ We noticed some typos in the "Squid Colonization" protocol. Here we are going to
 
 In our Remote, click on the file to edit.
 
-![](images/github/select-file.png)
+![](../images/github/select-file.png)
 
 Click on the pencil icon to edit the file.
 
-![](images/github/edit-file.png)
+![](../images/github/edit-file.png)
 
 Make the desired changes using [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![](images/github/edit-markdown.png)
+![](../images/github/edit-markdown.png)
 
 For each change, you can use GitHub's built-in preview functionality.
 
-![](images/github/edit-markdown-view.png)
+![](../images/github/edit-markdown-view.png)
 
 When you have completed the changes, Add a short commit message and (if needed) more detailed information.
 
-![](images/github/commit-message.png)
+![](../images/github/commit-message.png)
 
 ### Short commit message
 
@@ -285,7 +286,7 @@ Commit extended description can be used if needed. [Additional information about
 
 Your Remote will now be 1 change ahead of the Upstream:
 
-![](images/github/one-ahead.png)
+![](../images/github/one-ahead.png)
 
 ### Pull Request: Now suggest this change to the lab
 
@@ -295,21 +296,21 @@ Click on the button labeled "Pull Request" (see above).
 
 You will see the changes suggested, with the new lines in Green and the old lines in Red.
 
-![](images/github/pr1.png)
+![](../images/github/pr1.png)
 
 You can also display the "Rich Diff", which will show the changes in a more granular way.
 
-![](images/github/pr2.png)
+![](../images/github/pr2.png)
 
 Click Create Pull Request, edit/add any information (again use the guidelines above for commit messages).
 
-![](images/github/pr3.png)
+![](../images/github/pr3.png)
 
-![](images/github/pr4.png)
+![](../images/github/pr4.png)
 
 If you permission to merge changes into `mjmlab/protocols` then you will have the option to Merge Pull Request immediately. If not, then an owner on that account will be notified that your Pull Request is waiting.
 
-![](images/github/pr5.png)
+![](../images/github/pr5.png)
 
 Additional discussion can proceed about the Pull Request. You will automatically be notified of any discussion, and if you want to alert someone specifically you can include their GitHub username preceded by an `@`, as in this example. That person can then comment on the proposed changes before they are merged.
 
@@ -318,7 +319,7 @@ Additional discussion can proceed about the Pull Request. You will automatically
 
 In this example there have been some changes made to the Upstream that are not in the Remote repo.
 
-![](images/github/behind1.png)
+![](../images/github/behind1.png)
 
 Note: Be sure that you do not lose anything that you have changed (i.e., if your repo is **ahead** of the lab upstream repo).
 

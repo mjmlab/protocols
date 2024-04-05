@@ -14,7 +14,7 @@ The following protocol is used to spot, image, and analyze biofilm formation usi
 1. Spot 8ul of each strain in duplicate for each temperature/condition needed.
     - Make sure plate has antibiotic is needed. Note that some antibiotics have an effect on biofilm formation.
     - Up to 6 spots per plate is ideal, but 8 can be done if you stagger spots to optimize distance from plate edge and each other.  
-     <IMG SRC="images/spot_assay/plate_lay_out.png" WIDTH=25%></IMG>
+     <IMG SRC="../images/spot_assay/plate_lay_out.png" WIDTH=25%></IMG>
     - Strains on the same plate are best for comparison. Consider keeping one control on all plates if you cannot get all samples on one plate.
 1. Place plates at desired temperatures. Do not flip upside-down as this can misshape undried spots
 1. At the 24 hour mark, remove plates from incubator and take a picture on the Leica EZ4 Steromicroscope
@@ -35,7 +35,7 @@ The Leica microscope should be set as follows to take the biofilm pictures.
 - Light should be all the way up on 5
 - Zoom should be all the way out 0.63
 
-<IMG SRC="images/spot_assay/scope_set_up.png" WIDTH=25%></IMG>
+<IMG SRC="../images/spot_assay/scope_set_up.png" WIDTH=25%></IMG>
 
 #### Software
 The defaults should be correct, but this is the set-up if something got changed:
@@ -43,7 +43,7 @@ The defaults should be correct, but this is the set-up if something got changed:
 - Color is Auto
 - Images saved as TIFFs
 
-<IMG SRC="images/spot_assay/software_set_up.png" WIDTH=50%></IMG>
+<IMG SRC="../images/spot_assay/software_set_up.png" WIDTH=50%></IMG>
 
 ## Image processing
 
