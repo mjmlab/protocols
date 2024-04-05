@@ -28,6 +28,8 @@
 
 For plates, add 15 g Agar and a stir bar. Cool in the 55 °C bath prior to pouring, until the media can be touched with bare hands. Add [antibiotics](antibiotics.md) if required. Stir for approximately 1 min, then pour.
 
+Additional detail on [making media](media.md#making-media) is listed below.
+
 ## Rich media
 
 ### LBS
@@ -261,16 +263,37 @@ When adding to autoclaved media prior to pouring, add 3 μl Thymidine solution p
 
 ## Making media
 
+- When pouring plates, ignite a Bunsen Burner near you to decontaminate the air around you.
+	- Make sure the flame IS NOT UNDER THE WOOD SHELF!
+ - Once ignited, wrap a paper towel under the neck of the flask and pour slowly to avoid adding bubbles.
+	 - Make sure the paper towel does not touch the media being poured! This would contaminate all of the plates, as our paper towel is not sterile.
+- If poured correctly, you should yield about two sleeves of plates per liter of media.
+	- A good rule of thumb to follow to ensure the proper amount of media is in each plate is to pour slowly until the bottom is completely filled. AS SOON as the bottom is filled, stop pouring. 
+	- Pouring the correct amount of media takes time and practice. If your plates are too thin or too thick, ask a senior labmate for tips and tricks. Everyone has different methods that work for them, and they may have some good advice!
+- Once done pouring, rinse the flasks with HOT tap water, and then DI water.
+	- Cold tap water can cause the agar to harden, sticking to the glass. This is especially bad if an antibiotic media was in this flask. Place on the drying rack above the sink when done.
+- Flasks used with antibiotic media should be washed before reuse.
+- Let plates sit on the benchtop for two days.
+- After two days, place in plate sleeve and close with label tape with media type, date made, and initials.
+- Place it in the cold room on appropriate shelf against the back wall.
+
 ### General information
 
-* Wear gloves while making media
-* When making media to be autoclaved, make sure the volume of the container is twice that of the amount of media you are autoclaving (i.e. if you are making 1 L of media, make it in a 2 L flask to autoclave it)
-  * Too small of a container will result in boil-over
-* Clean the media preparation area when finished making media
-  * Dust off the scale, make sure its doors are closed
+- Wear gloves while making media.
+- When making media to be autoclaved, make sure the volume of the container is twice that of the amount of media you are autoclaving (i.e. if you are making 1 L of media, make it in a 2 L flask to autoclave it).
+  - Too small of a container will result in boil-over.
+- Use the largest stirbar that fits the vessel. Autoclave the stirbar with the media.
+- Always use weigh boats/weigh paper, which is stored in the drawer under the scales.
+- If you accidentally take too much powder, do not put the extra back into the source bottle as this can contaminate the source.
+- Clean the media preparation area when finished making media.
+  - Dust off the scale, ensure any scale doors are closed.
+
+The specific steps you take will depend on whether you are preparing liquid media or agar plates:
+- For [liquid media bottles](media.md#liquid-media), aliquot the non-sterile liquid into `milk dilution bottles` and then autoclave the individual bottles.
+- For [agar plates](media.md#plates), autoclave the large flask(s), allow them to stir/cool, add antibiotics if needed, and then pour the plates.
 
 ### Liquid media
-1. Make media and measure out in 100 mL aliquots into milk dilution bottles
+1. Make media and measure out in 100 mL aliquots into `milk dilution bottles`
 2. Put lids on bottles loosely (don't close all the way)
 3. Place autoclave tape on seam between lid and bottle
 4. Put bottles in square metal cage
@@ -283,43 +306,48 @@ When adding to autoclaved media prior to pouring, add 3 μl Thymidine solution p
 1. Make media in appropriate sized flask with stir bar
 2. Add 15 g agar per 1 L of media (makes 1.5% agar plates)
 3. Cover top of flask with aluminum foil and place autoclave tape on top
+- Cover flasks/beakers to be autoclaved with aluminum foil, then with a small piece of autoclave tape.
+  - Label the foil with the specific media type and your initials.
+  - Please keep the tape on the foil, not on the flask unless necessary, as it makes the glass gooey.
 4. Turn on 55°C water bath
 4. [Autoclave](autoclave.md)
 5. After autoclaving, immediately place media in 55°C water bath and wait until cool enough to touch with bare hands (~30 min)
 6. When ready to pour plates, place flask on stir plate and stir at low speed (~200 rpm) so bubbles aren't produced
-   * If making plates with [antibiotics](media.md#antibiotics), add antibiotic to flask at this point and let stir for ~1 min
+   - If making plates with [antibiotics](media.md#antibiotics), add antibiotic to flask at this point and let stir for ~1 min
 7. Set up plates for pouring; keep the plastic sleeve the plates come in to store the poured plates
-   * Use scissors to open sleeve of plates closest to the top seam (to get the most length out of the sleeve for reuse)
-   * Stack plates in sets of 5 and line up on bench top
+   - Use scissors to open sleeve of plates closest to the top seam (to get the most length out of the sleeve for reuse)
+   - Stack plates in sets of 5 and line up on bench top
 8. Light Bunsen burner
 9. Take flask off of stir plate and pour media into plates
-   * Pour just enough to cover the bottom of the plate
-   * Pour gently so as not to create bubbles
-   * Make sure to put lid back plate on immediately after pouring
-   * If bubbles end up in plate, pass flame from Bunsen burner over surface of media
-10. When all the media has been poured, immediately rinse out flask with hot water (so the residual media doesn't solidify), turn off the water bath, turn gas off of Bunsen burner
-11. Label the sides of the plates with permanent marker according to the guide at the plate pouring bench (i.e. LB is one black line)
-12. Leave plates out at room temperature for 1-2 days to solidify and dry out along with a piece of tape labeled with the media type, date, and your initials
-13. After the plates are solidified, place them in a labeled plastic sleeve and place in the cold room on the appropriate shelf
+   - Pour just enough to cover the bottom of the plate
+   - Pour gently so as not to create bubbles
+   - Make sure to put lid back plate on immediately after pouring
+   - If bubbles end up in plate, pass flame from Bunsen burner over surface of media
+10. Typically 1 L of media yields 2 sleeves of plates (i.e., 45-50 plates).
+11. When all the media has been poured, immediately rinse out flask with hot water (so the residual media doesn't solidify), turn off the water bath, turn gas off of Bunsen burner
+12. Label the sides of the plates with permanent marker according to the guide at the plate pouring bench (i.e. LB is one black line)
+13. Leave plates out at room temperature for 2 days to solidify and dry out along with a piece of tape labeled with the media type, date, and your initials
+14. On the day after the plates are poured, validate one plate from each stock with the test strains. Use a plate from the middle of the stack (i.e., not the wettest plate on the top of the stack).
+15. After the plates are solidified and passed validation, place them in a labeled plastic sleeve and place in the cold room on the appropriate shelf.
 
 ### Antibiotics
 
-* [Antibiotic stocks](antibiotics.md) are kept in the -20°C freezer in a labeled box
-* The numbers on the tubes of antibiotics refer to the concentration of antibiotic in mg/mL
-  * If you need a concentration of antibiotic that is not indicated on a tube, then you'll have to do some math (i.e. to make LBS-Kan100, add 2 tubes of Kan50 to 1 L of LBS); see table below
-* Antibiotics should be added to media AFTER autoclaving and after the media has cooled to a usable temperature (or else the antibiotics could degrade)
-* Fully thaw antibiotics and vortex just before adding them to media
-* Allow the media to stir for ~1 min after adding antibiotics
+- [Antibiotic stocks](antibiotics.md) are kept in the -20°C freezer in a labeled box
+- The numbers on the tubes of antibiotics refer to the concentration of antibiotic in mg/mL
+  - If you need a concentration of antibiotic that is not indicated on a tube, then you'll have to do some math (i.e. to make LBS-Kan100, add 2 tubes of Kan50 to 1 L of LBS); see table below
+- Antibiotics should be added to media AFTER autoclaving and after the media has cooled to a usable temperature (or else the antibiotics could degrade)
+- Fully thaw antibiotics and vortex just before adding them to media
+- Allow the media to stir for ~1 min after adding antibiotics
 
 | Antibiotic            | Final concentration in 1 L media | Stock concentration | Volume of stock to add to 1L media |
 |-----------------------|:---------------------------------|:--------------------|:-----------------------------------|
-| Chloramphenicol (Cam) | 25 ug/mL                         | 25 mg/uL            | 1 mL                               |
-| Chloramphenicol (Cam) | 5 ug/mL                          | 25 mg/uL            | 200 uL                             |
-| Erythromycin (Erm)    | 150 ug/mL                        | N/A                 | 0.150 g of powder                  |
-| Erythromycin (Erm)    | 5 ug/mL                          | 10 mg/uL            | 500 ul                             |
-| Kanamycin (Kan)       | 50 ug/mL                         | 50 mg/uL            | 1 mL                               |
-| Kanamycin (Kan)       | 100 ug/mL                         | 50 mg/uL           | 2 mL                               |
-| Spectinomycin (Spc)   | 50 ug/mL                         | 50 mg/uL            | 1 mL                               |
-| Tetracycline (Tet)    | 15 ug/mL                         | 10 mg/uL            | 1.5 mL                             |
-| Tetracycline (Tet)    | 5 ug/mL                          | 10 mg/uL            | 500 uL                             |
-| Carbenicillin (Carb)  | 100 ug/mL                        | 100 mg/uL           | 1 mL                               |
+| Chloramphenicol (Cam) | 25 μg/ml                         | 25 mg/μl            | 1 ml                               |
+| Chloramphenicol (Cam) | 5 μg/ml                          | 25 mg/μl            | 200 ul                             |
+| Erythromycin (Erm)    | 150 μg/ml                        | N/A                 | 0.150 g of powder                  |
+| Erythromycin (Erm)    | 5 μg/ml                          | 10 mg/μl            | 500 ul                             |
+| Kanamycin (Kan)       | 50 μg/ml                         | 50 mg/μl            | 1 ml                               |
+| Kanamycin (Kan)       | 100 μg/ml                        | 50 mg/μl           | 2 ml                               |
+| Spectinomycin (Spc)   | 50 μg/ml                         | 50 mg/μl            | 1 ml                               |
+| Tetracycline (Tet)    | 15 μg/ml                         | 10 mg/μl            | 1.5 ml                             |
+| Tetracycline (Tet)    | 5 μg/ml                          | 10 mg/μl            | 500 μl                             |
+| Carbenicillin (Carb)  | 100 μg/ml                        | 100 mg/μl           | 1 ml                               |

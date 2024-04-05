@@ -1,36 +1,40 @@
-# Autoclave use protocol
+# Autoclave
 
-1. Before autoclaving, make sure:
-   * Everything being autoclaved has autoclave tape on it (the tape indicates if items have been properly sterilized) except for biohazardous waste bags
-   * Any screw-on lids are loosely screwed onto any bottles going into the autoclave (if screwed down all the way, bottles could explode during the autoclaving process)
-      * Exception: Glycerol tubes. Twist caps down most of the way, but not tightly. This is because a lot of liquid is lost if caps are loosely screwed down.
-2. Load items to autoclave into autoclave bin
-   * Liquid and dry items are autoclaved seperately
-   * 3 L of liquids max
-   * Don't stack liquids, but you can stack dry items
-3. Place the autoclave bin into the autoclave
-   * Biohazard bags shouldn't be touching the sides of the autoclave
-4. Shut autoclave door all the way
-5. Select the proper protocol from the menu
-   * Press "Select cycle", scroll to correct protocol, press "enter" to view protocol
-   * **Note: Anything with agar in it needs to be autoclaved on a liquid cycle!** This includes biohazardous waste with agar plates in it. If not autoclaved on liquid cycle, liquid will overflow into autoclave and cause expensive issues.
-   * Liquids:
-      * 500 mL: P13 liq LIQUIDS1 (15 min exposure time)
-      * 1-1.5 L: P15 liq LIQUIDS1 (20 min exposure time)
-      * 2-3 L: P14 liq LIQUIDS1 (30 min exposure time)
-   * Dry: P8 grav GRAVITY1 (30 min exposure time)
-   * **Orange biohazardous waste: P14 Liq LIQUIDS1 (30 min exposure time)**
-   * White biohazardous waste: P8 grav GRAVITY1 (30 min exposure time)
-6. Press "Start" to start cycle
-7. When cycle is finished, autoclave will ring
-8. If autoclaving liquids, take items out of autoclave
-   * Wear protective gloves and be careful&mdash;items will be very hot
-   * If autoclaving media with agar for pouring plates, immediately put media in 55°C water bath
-   * For other liquids, leave out at room temperature
-9. If autoclaving dry items, crack open the autoclave door about a couple inches and let items dry for a few hours or overnight, then take out of autoclave
-   * Items will still be hot after drying, so wear protective gloves when handling the items
-10. If autoclaving liquids, immediately rinse out the autoclave bin with hot water to clean out any boil-over
-11. If autoclaving biohazardous waste:
-   * If there is a lot of boil over, place autoclaved bag into another biohazard bag, dump the boiled over liquid into the bag as well, tie the bag closed for disposal
-   * To dispose of autoclaved bags, put a green "OK to trash" sticker labeled with our lab name and room number on the bag, then place bag in big black trashcan in autoclave room
-   * Make sure the big black trashcan isn't too full; if it's full, take the bag out, tie it closed, label with an "OK to trash" sticker, and set the bag to the side of the trashcan
+## Autoclave cycles
+
+| Cycle | Dry/Liquid | Uses |
+|:---:|:---:|:---:|
+| p8 | Dry | Dry supplies and tip trash (clear bag) |
+| p13  | Liquid | Non-agar liquid media (<1 Liter) |
+| p14  | Liquid & Trash | Everything else (liquid media, glycerol stocks, orange bag trash, etc.) |
+
+## Autoclave etiquette
+
+- Use about 1" of autoclave tape per item. This provides 2-3 slashes per piece, which provides the needed information, but ensures that the tape does not become unwieldy.
+- When putting the tape on, make sure to "courtesy tab" one end: fold it over and stick it onto itself. This gives us an easy place to grab to remove the tape.
+- **When autoclaving media (liquids in general), a maximum of 3 liters can be autoclaved in our machines**. This ensures that all media is heated evenly.
+- Every time you remove media from the autoclave, gently rinse out the inside of the autoclave with water after use, using the hose attached to the wall. This prevents salt build-up, which is detrimental to the autoclaves.
+  - There is a valve on the wall to turn on water to the hose.
+  - Unscrew the end of the hose to provide a **gentle stream of water** from the nozzle. Avoid a strong stream that will generate steam, could make you wet, or could potentially burn you.
+
+## Tip trash (the clear bag)
+- Can be found in the orange wireframe holder near the main lab entrance. This can be treated as a “Dry” load, and can be autoclaved on P2.
+- Once the run is finished, stick a green “Ok to Trash” sticker on the bag and toss it into the trashcan in the autoclave room.
+- The liquid in the bin should just be autoclave steam and can be washed out down the drain and the bin left to dry/reuse.
+  - If you cannot find ‘OK to Trash’ stickers in lab, you can find more on the first floor in the mail room by the printer.
+
+## Biohazard Plate Trash (orange bag)
+- The orange biohazard bags contain agar plates and cannot be run on a “Dry” load or they will boil over in the tray and make a huge mess. These must always be run on cycle P14, and the bags shouldn’t be so full that they bulge way out over the tray.
+- Once the run is finished, stick a green “Ok to Trash” sticker on them and the bags should be tossed into the trashcan in the autoclave room.
+- **Any liquid in the tray cannot be put down the drain**. This isn’t water, but actually some melted agar that will resolidify and clog pipes if it goes down the sink.
+  - Instead, take the tray to the “Daily Bin Bucket”, an instant ocean bucket you have put an orange autoclave bag into. Pour the liquid into the bag and rinse the tray clean in the sink of any remaining residue.
+  - **At the end of the day you must tie up the bag, stick an “OK To Trash” sticker on it, and toss it into the autoclave room trash.**
+  - Bin Buckets left to sit for >1 day will quickly grow new bacteria/mold and become a new biohazard/horrific stench glob. If you do run into this situation, autoclave the bag with the autoclave room’s door closed and toss it in the trash promptly.
+
+## Dry Supplies
+- Typically, dry supplies are run at the end of the day.
+  - The reasoning for this is that condensation tends to build up in our supplies, and if you leave them overnight, the condensation will evaporate out.
+- When autoclaving, run on the p8 cycle, which is roughly 60 minutes.
+- After autoclaving, vent the door on the autoclave by opening slightly and leaving a slit at the top of the door. Allow the door to vent overnight so that the water vapor escapes.
+- Remove the dry supplies first thing on the next day, and let cool on the bench for 30-60 min.
+- Put dry supplies away in their respective locations.
