@@ -1,6 +1,6 @@
 # Squid colonization
 
-The [competition protocol](files/squid-competitions.md) uses the same scaffold as this protocol, so any changes to this protocol may also need to be reflected in that assay.
+The [competition protocol](squid-competitions.md) uses the same scaffold as this protocol, so any changes to this protocol may also need to be reflected in that assay.
 
 ##### 1. Preparation of Bacterial Inocula
 

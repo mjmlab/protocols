@@ -1,6 +1,6 @@
 # Squid fixation and staining for visualization
 
-After completing an [aggregation](files/squid-colonization-aggregates.md) or other [squid colonization](files/squid-colonization.md) protocol, follow this procedure to fix squid and apply any tissue stains.
+After completing an [aggregation](squid-colonization-aggregates.md) or other [squid colonization](squid-colonization.md) protocol, follow this procedure to fix squid and apply any tissue stains.
 
 - [Reagents](#reagents)
   - [2x mPBS - also called marine PBS](#2x-mpbs---also-called-marine-pbs)

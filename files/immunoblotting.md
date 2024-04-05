@@ -119,7 +119,7 @@ Instead of running a gel, samples can be spotted directly onto the membrane. Thi
 ## Western Blot Transfer
 See page 25 in [guide](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_1658100.pdf) for more details and pictures. Note: For larger gels use the criterion system.
 Supplies, including square clear plastic containers that can be used to soak parts, are in protein supply cabinet. Handle membrane with forceps minimizing contact with central area of membrane.  
-1. After running [SDS-PAGE gel](files/sds-page.md), let gel equilibrate in transfer buffer for ~10 min
+1. After running [SDS-PAGE gel](sds-page.md), let gel equilibrate in transfer buffer for ~10 min
 1. Soak 2 sponges and 2 pieces of filter paper in transfer buffer.
 1. Soak membrane in transfer buffer. If using PVDF membrane, wet in methanol first.
 1. Assemble the transfer "sandwich". Throughout assembly, transfer buffer can be added by pouring onto sandwich to keep layers wet and help parts come together without air bubbles.
