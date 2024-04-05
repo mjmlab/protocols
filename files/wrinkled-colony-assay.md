@@ -2,7 +2,11 @@
 
 The following protocol is used to spot, image, and analyze biofilm formation using a wrinkled colony assay.
 
-## Spotting strains:
+- [Spotting strains](#spotting-strains)
+- [Microscope Set-Up](#microscope-set-up)
+- [Image processing](#image-processing)
+
+## Spotting strains
 
 1. Grow overnight liquid cultures of each strain needed for the Assay
     - Do not forget to include controls. This includes parent strains, empty vectors, etc.
@@ -19,7 +23,7 @@ The following protocol is used to spot, image, and analyze biofilm formation usi
 
 Note: Shorter or longer time points can be used to look at timing of biofilm development or to observe slower biofilm development overtime. For a time course, take pictures between every two hours 16-24 hours or use the Zeiss Axio Zoom V16 Microscope
 
-## Microscope Set-Up:
+## Microscope Set-Up
 
 The Leica microscope should be set as follows to take the biofilm pictures.
 
@@ -41,7 +45,8 @@ The defaults should be correct, but this is the set-up if something got changed:
 
 <IMG SRC="images/spot_assay/software_set_up.png" WIDTH=50%></IMG>
 
-## Image processing:
+## Image processing
+
 Use the following to process biofilm pictures and make a figure:
 1. Open the images in Adobe Photoshop
 1. Choose the best looking spot of the duplicate ones plated for each strain in each condition

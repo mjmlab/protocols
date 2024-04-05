@@ -1,5 +1,11 @@
 # Autoclave
 
+- [Autoclave cycles](#autoclave-cycles)
+- [Autoclave etiquette](#autoclave-etiquette)
+- [Tip trash (the clear bag)](#tip-trash-the-clear-bag)
+- [Biohazard Plate Trash (orange bag)](#biohazard-plate-trash-orange-bag)
+- [Dry Supplies](#dry-supplies)
+
 ## Autoclave cycles
 
 | Cycle | Dry/Liquid | Uses |

@@ -1,12 +1,17 @@
 # Squid fixation and staining for visualization
 
-After completing an [aggregation](squid-colonization-aggregates.md) or other [squid colonization](squid-colonization.md) protocol, follow this procedure to fix squid and apply any tissue stains.
+After completing an [aggregation](files/squid-colonization-aggregates.md) or other [squid colonization](files/squid-colonization.md) protocol, follow this procedure to fix squid and apply any tissue stains.
 
 - [Reagents](#reagents)
-- [Fixation](#fixation-of-squid)
+  - [2x mPBS - also called marine PBS](#2x-mpbs---also-called-marine-pbs)
+  - [4% PFA fixative in 1X mPBS](#4-pfa-fixative-in-1x-mpbs)
+  - [1X mPBS with 1% Triton-X](#1x-mpbs-with-1-triton-x)
+  - [Toto-3 stain solution](#toto-3-stain-solution)
+  - [WGA-633 1 mg/ml stock](#wga-633-1-mgml-stock)
+- [Fixation of Squid](#fixation-of-squid)
 - [Staining of squid](#staining-of-squid)
-  - [Toto-3](#counterstaining-squid-with-Toto-3)
-  - [CellTracker Orange CMRA](#counterstaining-squid-with-celltracker-orange-cmra)
+  - [Counterstaining squid with Toto-3](#counterstaining-squid-with-toto-3)
+  - [Counterstaining squid with CellTracker Orange CMRA](#counterstaining-squid-with-celltracker-orange-cmra)
 - [Staining mucus with WGA-Alexa 633](#staining-mucus-with-wga-alexa-633)
 
 

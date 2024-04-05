@@ -9,11 +9,15 @@ See [guide](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_4006
 See [guide](https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_1658100.pdf) for more detail on reagents and protocol.
 
 ## Supplies
-- [Running buffer](#running-buffer)  
-- [Sample buffer](#sample-buffer)  
-- [Gel](#gel)
-- [Ladder](#ladder)
-- [Stains](#stains)
+- [Supplies](#supplies)
+  - [Running buffer](#running-buffer)
+  - [Sample Buffer](#sample-buffer)
+  - [Gel](#gel)
+  - [Ladder](#ladder)
+  - [Stains](#stains)
+- [Protocol](#protocol)
+  - [Run gel](#run-gel)
+  - [Stain gel](#stain-gel)
 
 ### Running buffer
 Typical running buffer for SDS-PAGE is Tris/Glycine/SDS buffer.  

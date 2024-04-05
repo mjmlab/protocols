@@ -2,6 +2,13 @@
 
 **TL;DR Store strains in 2 parts media to 1 part 50% glycerol.**
 
+- [MJM collection overview](#mjm-collection-overview)
+- [Large-scale preparation of individual tubes, each containing 50% glycerol](#large-scale-preparation-of-individual-tubes-each-containing-50-glycerol)
+- [Freeze White/Yellow-capped glycerol stocks (primary \& backup stocks)](#freeze-whiteyellow-capped-glycerol-stocks-primary--backup-stocks)
+- [Freeze Red-capped glycerol stocks (tentative stocks)](#freeze-red-capped-glycerol-stocks-tentative-stocks)
+- [Transferring Red-capped strains to White-/Yellow-capped vials](#transferring-red-capped-strains-to-white-yellow-capped-vials)
+
+
 ## MJM collection overview
 
 A strain that is added to the laboratory strain database is assigned an MJM number and stored as a White-capped tube (primary collection) and Yellow-capped tube (backup collection) at -80°C in the designated lab boxes.

@@ -1,7 +1,5 @@
 # Media
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
 - [General information](#general-information)
 - [Rich media](#rich-media)
 	- [LBS](#lbs)
@@ -20,9 +18,12 @@
 	- [Xgal (20 mg/ml)](#xgal-20-mgml)
 	- [DAP (300 mM, 1000x)](#dap-300-mm-1000x)
 	- [Thymidine (100 mM, 333x)](#thymidine-100-mm-333x)
-- [Making media](media.md#making-media)
+- [Making media](#making-media)
+	- [General information](#general-information-1)
+	- [Liquid media](#liquid-media)
+	- [Plates](#plates)
+	- [Antibiotics](#antibiotics)
 
-<!-- /TOC -->
 
 ## General information
 

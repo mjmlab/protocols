@@ -1,6 +1,21 @@
 # Preparing Sterile Lab Supplies
 
+- [General information](#general-information)
+- [Microfuge tubes](#microfuge-tubes)
+- [Pipette tips](#pipette-tips)
+- [Culture tubes](#culture-tubes)
+- [Culture tube disposal](#culture-tube-disposal)
+- [Glass beads](#glass-beads)
+  - [Cleaning beads](#cleaning-beads)
+  - [Racking clean beads](#racking-clean-beads)
+  - [What do I do if one of the tubes breaks?](#what-do-i-do-if-one-of-the-tubes-breaks)
+- [Long sticks](#long-sticks)
+- [Toothpicks](#toothpicks)
+- [Glycerol tube stocks](#glycerol-tube-stocks)
+
+
 ## General information
+
 * Wear gloves when preparing supplies for sterilization
 * Autoclave tape should be dog-eared to aid in removal of tape
 * When closing containers with aluminum foil:
@@ -30,8 +45,6 @@
   - When cardboard box is full of disposed tip box pieces, tape shut with packing tape and label with an ‘OK to Trash’ sticker.       - Write with a Sharpie “PLEASE RECYCLE” as large as possible. This tells our custodians that this container may be recycled.        - Place outside the door with other cardboard to be recycled.
 - Autoclave with dry supplies.
 
-
-
 ## Culture tubes
 
 - Put red culture tube caps on glass 16 mm culture tubes.
@@ -55,7 +68,7 @@
 
 ## Glass beads
 
-### Cleaning Beads
+### Cleaning beads
 - **DAY 1**: Collect all the dirty beads used around the lab.
  - Please return the dirty bead containers if you take them from someone's bench!
 - Pour dirty beads into the tripour labeled “RBS”.
@@ -69,8 +82,7 @@
 - Let dry overnight.
 - **DAY 4**: Pour into the clean bead container and you’re good to go!
 
-
-### Racking Clean Beads
+### Racking clean beads
 - Before racking, take a stroll around the lab and collect all caps.
  - If you take someone's container off of their bench, please return it to their rightful owner!
 - Take the container of clean beads and use the makeshift scooper in it to place 5 glass beads per tube.

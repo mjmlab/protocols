@@ -1,4 +1,12 @@
-# Estimating cfu using the multi-channel pipette#
+# Estimating CFU using the multi-channel pipette#
+
+- [Equipment needed:](#equipment-needed)
+- [Dry plates under the hood:](#dry-plates-under-the-hood)
+- [Set up wells for dilution:](#set-up-wells-for-dilution)
+- [Serially dilute sample(s):](#serially-dilute-samples)
+- [Spot dilutions:](#spot-dilutions)
+- [Calculate CFU:](#calculate-cfu)
+
 
 ## Equipment needed:
 - 20 - 200 µl multi-channel pipette
@@ -31,7 +39,7 @@ IMPORTANT: when going from a more dense well (lower dilution) to a less dense we
 - Wait until spots dry completely. This will be faster if the lid is propped open.
 - Incubate plates at the appropriate temperature until colonies are visible, but do not grow so long that they run together.
 
-## Calculate cfu:
+## Calculate CFU:
 - Count cfu in spots that contain between 25 - 125 colonies. Average the two duplicates together.
 Use cfu = (colony number) x (1000/vol spotted) x (inverse dilution).
      e.g. 40 colonies in a 10 µl spot of a 10^-4 dilution: 40 x (1000/10) x (1/10-4) = 40 x 100 x 10000 = 4 x 107

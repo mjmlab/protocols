@@ -8,9 +8,9 @@ pLostfoX has a chloramphenicol-resistant (Cam<sup>R</sup>) backbone
 
 - If instead a kanamycin-resistant (Kan<sup>R</sup>) vector is desired, use pLostfoX-Kan (originally called pJFB9) and substitute 100 μg/ml Kan for each instance of 2.5 μg/ml Cam denoted by asterisks (\*\*).
 - Here we will use MJM1538 (MJM1100 / pLostfoX).  
-- pLostfoX can be introduced to other strains by [conjugation](conjugation.md) from MJM1529 (DH5α / pLostfoX) with selection for Cam.  
+- pLostfoX can be introduced to other strains by [conjugation](files/conjugation.md) from MJM1529 (DH5α / pLostfoX) with selection for Cam.  
 - MJM2076 is MJM1100 / pLostfoX-Kan.  
-- pLostfoX-Kan can be introduced to other strains by [conjugation](conjugation.md) from MJM2090 (DH5α λpir / pLostfoX-Kan) with selection for Kan.  
+- pLostfoX-Kan can be introduced to other strains by [conjugation](files/conjugation.md) from MJM2090 (DH5α λpir / pLostfoX-Kan) with selection for Kan.  
 
 
 ### Materials
@@ -19,13 +19,13 @@ pLostfoX has a chloramphenicol-resistant (Cam<sup>R</sup>) backbone
 
 **Donor** Genomic DNA (gDNA): 2.4 μg prepared with the Qiagen DNeasy kit, eluted in ddH<sub>2</sub>O. Final concentration of > 100 μg/ml.
 
-[Antibiotic](antibiotics.md) to select for your marker of interest.
+[Antibiotic](files/antibiotics.md) to select for your marker of interest.
 
-[Antibiotic](antibiotics.md) to select for the pLostfoX plasmid (Cam)\*\*.
+[Antibiotic](files/antibiotics.md) to select for the pLostfoX plasmid (Cam)\*\*.
 
-[LBS](media.md#lbs) liquid and agar as noted, some containing antibiotics.
+[LBS](files/media.md#lbs) liquid and agar as noted, some containing antibiotics.
 
-Tris-GlcNAc-Cam: [Tris minimal medium](media.md#tris-minimal-medium) with 10 mM GlcNAc and 2.5 µg/ml Cam\*\*.
+Tris-GlcNAc-Cam: [Tris minimal medium](files/media.md#tris-minimal-medium) with 10 mM GlcNAc and 2.5 µg/ml Cam\*\*.
 
 
 1. **Day 1** - Inoculate 3 ml LBS-Cam<sup>2.5</sup>\*\* with the recipient. Grow culture overnight in the 25 °C rotator.

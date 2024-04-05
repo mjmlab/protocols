@@ -3,11 +3,19 @@
 Description of protocol used to create lab stocks of electrocompetent *E. coli*.
 Below details the original protocol as well as the more commonly used one that utilizes the smaller biobottles.
 
+- [Original Protocol](#original-protocol)
+  - [Materials](#materials)
+  - [Protocol](#protocol)
+- [Updated Protocol](#updated-protocol)
+  - [Materials](#materials-1)
+  - [Protocol](#protocol-1)
+
+
 ## Original Protocol
 
 For use with 750ml biobottles. Makes 1L of competent cells
 
-### Materials:
+### Materials
 
 1 L sterile SOB, Teknova powder #S0210.  Or mix:
 - 2.0% tryptone
@@ -63,7 +71,7 @@ Ice bucket
 For use with 250mL biobottles. Instead of using one 750mL bottle per 500mL of culture, the culture is divided into 3 250mL biobottles.
 Makes 500mL of competent cells, but everything can be done in duplicate for 1L.
 
-### Materials: 
+### Materials
 
 500mL sterile SOB (see above for recipe)
 

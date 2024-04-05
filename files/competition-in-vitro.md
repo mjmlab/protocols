@@ -8,7 +8,7 @@
 
 1. Subculture 25 μl of the scraping into 2 ml LBS (1:80 subculture) and grow at 25 °C with aeration until the culture reaches an OD<sub>600</sub> of approximately 0.3. Record the OD.
 
-1. Subculture 16.5 μl of the culture into 3 ml of the selective medium (1:181 subculture) and grow until the OD reaches the original OD. Note that 2<sup>7.5</sup> = 181, so the culture has now grown approximately 7.5 generations (doublings) in the selective medium. At this point [freeze down an aliquot](glycerol-stocks.md) as a "frozen fossil record" and also proceed with the next step to grow the next 7.5 generations.
+1. Subculture 16.5 μl of the culture into 3 ml of the selective medium (1:181 subculture) and grow until the OD reaches the original OD. Note that 2<sup>7.5</sup> = 181, so the culture has now grown approximately 7.5 generations (doublings) in the selective medium. At this point [freeze down an aliquot](files/glycerol-stocks.md) as a "frozen fossil record" and also proceed with the next step to grow the next 7.5 generations.
 
 1. Subculture 16.5 μl of the culture from above and proceed to grow as above for the next 7.5 generations in selective medium. *Note: if inoculating from a glycerol stock, use 24.75 μl to account for the glycerol volume.* Once the OD returns, freeze the glycerol stock as before.
 

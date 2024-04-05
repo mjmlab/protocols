@@ -1,6 +1,6 @@
 # Squid colonization for analysis of bacterial aggregates
 
-Measuring aggregation of bacterial cells in the squid host requires higher inocula (10<sup>5</sup>-10<sup>7</sup> CFU/ml) than the typical [colonization](squid-colonization.md) protocol.
+Measuring aggregation of bacterial cells in the squid host requires higher inocula (10<sup>5</sup>-10<sup>7</sup> CFU/ml) than the typical [colonization](files/squid-colonization.md) protocol.
 
 ##### 1. Preparation of Bacterial Inocula
 
@@ -23,7 +23,7 @@ Measuring aggregation of bacterial cells in the squid host requires higher inocu
 
 ##### 3. Collection of Squid Juveniles
 
-[See this section in the standard colonization protocol.](squid-colonization.md#3-collection-of-squid-juveniles)
+[See this section in the standard colonization protocol.](files/squid-colonization.md#3-collection-of-squid-juveniles)
 
 ##### 4. Squid Colonization
 
@@ -33,7 +33,7 @@ Measuring aggregation of bacterial cells in the squid host requires higher inocu
 
 ##### 5. Image animals
 
-If you plan to fix or stain animals, proceed with the [fixation and staining protocol](squid-fix-stain.md) at this point.
+If you plan to fix or stain animals, proceed with the [fixation and staining protocol](files/squid-fix-stain.md) at this point.
 
 1. Anesthetize animals in 2% EtOH/FSIO and mix gently (i.e., in a conical tube).
 1. Transfer the animal to a depression well slide dissect off the mantle and funnel, and image.

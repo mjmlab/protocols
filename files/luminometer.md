@@ -2,14 +2,9 @@
 
 ## Instrument: Promega GloMax 20/20 Single-Tube Luminometer
 
-<!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Instrument operation](#instrument-operation)
-	- [Select the desired protocol and set the instrument to read every time the lid closes](#select-the-desired-protocol-and-set-the-instrument-to-read-every-time-the-lid-closes)
-	- [Read samples](#read-samples)
-- [Set up user protocol: `6 SEC-Std`](#set-up-user-protocol-6-sec-std)
-
-<!-- /TOC -->
+- [Instrument: Promega GloMax 20/20 Single-Tube Luminometer](#instrument-promega-glomax-2020-single-tube-luminometer)
+	- [Instrument operation](#instrument-operation)
+	- [Set up user protocol: `6 SEC-Std`](#set-up-user-protocol-6-sec-std)
 
 ### Instrument operation
 

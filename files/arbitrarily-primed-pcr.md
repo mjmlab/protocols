@@ -1,5 +1,16 @@
 # Semi-Arbitrarily-Primed PCR to Identify Transposon Insertion Sites
 
+- [Primers](#primers)
+  - [Primer notes](#primer-notes)
+- [DNA Preparation](#dna-preparation)
+- [Semi-arbitrarily-primed PCR, Round 1](#semi-arbitrarily-primed-pcr-round-1)
+- [Column purification](#column-purification)
+- [Semi-arbitrarily-primed PCR, Round 2](#semi-arbitrarily-primed-pcr-round-2)
+- [Column purification](#column-purification-1)
+- [Sequencing](#sequencing)
+- [Scaling Up](#scaling-up)
+  - [EXOSAP-IT incubation](#exosap-it-incubation)
+
 
 ## Primers
 

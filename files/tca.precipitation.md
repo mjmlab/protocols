@@ -1,5 +1,8 @@
 # Tricholoracetic Acid (TCA) Precipitation
 
+- [Notes](#notes)
+- [Preparation](#preparation)
+- [Precipitation](#precipitation)
 
 ## Notes
 

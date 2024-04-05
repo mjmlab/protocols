@@ -1,9 +1,9 @@
 # Competitive squid colonization assay
 
-This protocol is a variation of the [squid colonization protocol](squid-colonization.md) that has been modified for how to perform a competition between 2 bacterial strains. Steps bolded below highlight the differences between protocols.
+This protocol is a variation of the [squid colonization protocol](files/squid-colonization.md) that has been modified for how to perform a competition between 2 bacterial strains. Steps bolded below highlight the differences between protocols.
 
 ## Supplies and Considerations
-Make sure one strain is labeled so strains can be differentiated from each other. This protocol specifically reviews marking one strain with the LacZ containing plasmid (pVSV103). [LBS-Xgal plates](media.md#xgal-20-mgml) will be needed to do blue/white screen to differentiate colonies.
+Make sure one strain is labeled so strains can be differentiated from each other. This protocol specifically reviews marking one strain with the LacZ containing plasmid (pVSV103). [LBS-Xgal plates](files/media.md#xgal-20-mgml) will be needed to do blue/white screen to differentiate colonies.
 
 Alternatively strains could be differentiated with resistance markers or fluorescence for microscopy. Make sure proper plates are prepared depending on the conditions needed to differentiate the strains.
 
@@ -32,7 +32,7 @@ Mix together 250 ul Strain A and 210 ul of Strain B in a microtube. Add 4.6 ul (
 
 ##### 2. Preparation of Agar Plates for Enumeration of the Inocula
 
-1. For each treatment, label **LBS-Xgal plates** (2 per treatment) to plate samples of the inoculum in Step 4.1. If LBS-Xgal plates are not available, [spread 100ul of 20 mg/ml Xgal solution onto each plate as directed here](media.md#xgal-20-mgml).  
+1. For each treatment, label **LBS-Xgal plates** (2 per treatment) to plate samples of the inoculum in Step 4.1. If LBS-Xgal plates are not available, [spread 100ul of 20 mg/ml Xgal solution onto each plate as directed here](files/media.md#xgal-20-mgml).  
 1. Add 5 sterile plating beads per plate.
 
 ##### 3. Collection of Squid Juveniles

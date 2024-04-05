@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Preparation of stocks](#preparation-of-stocks)
+  - [Stock sterilization with the Steriflip:](#stock-sterilization-with-the-steriflip)
 - [Stock concentrations](#stock-concentrations)
 - [Preparation of media](#preparation-of-media)
 - [Media concentrations for *E. coli*](#media-concentrations-for-e-coli)

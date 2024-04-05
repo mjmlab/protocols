@@ -2,6 +2,11 @@
 
 This protocol demonstrates cloning of a *Vibrio fischeri* gene into the IPTG-inducible vector pEVS143.
 
+- [Construct design](#construct-design)
+- [Amplification and Gibson Assembly](#amplification-and-gibson-assembly)
+- [Transformation](#transformation)
+
+
 ## Construct design
 
 Here we use the NEBuilder to assemble the desired construct *in silico*.

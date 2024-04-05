@@ -2,8 +2,6 @@
 
 This is a bit meta: a protocol to demonstrate how to contribute to the protocols. It also serves as a model for working with other lab repositories.
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
 - [What is a repository/repo?](#what-is-a-repositoryrepo)
 - [Git vs Github](#git-vs-github)
 - [Git and GitHub Setup and Basic Commands](#git-and-github-setup-and-basic-commands)
@@ -20,8 +18,6 @@ This is a bit meta: a protocol to demonstrate how to contribute to the protocols
 	- [Short commit message](#short-commit-message)
 	- [Pull Request: Now suggest this change to the lab](#pull-request-now-suggest-this-change-to-the-lab)
 - [Dealing with the situation where your Remote repo (`mandel01/protocols`) is different from the lab Upstream repo (`mjmlab/protocols`)](#dealing-with-the-situation-where-your-remote-repo-mandel01protocols-is-different-from-the-lab-upstream-repo-mjmlabprotocols)
-
-<!-- /TOC -->
 
 ## What is a repository/repo?
 
