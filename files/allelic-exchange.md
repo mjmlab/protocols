@@ -1,4 +1,4 @@
-# Gene Deletion in *Vibrio fischeri*
+# Gene deletion in *Vibrio fischeri* by allelic exchange
 
 This protocol describes gene deletion in *V. fischeri* by allelic exchange.
 
@@ -11,7 +11,7 @@ This protocol describes gene deletion in *V. fischeri* by allelic exchange.
 
 ## Clone the allelic exchange vector
 
-1. Clone approximately 1.6 kb upstream DNA and 1.6 kb downstream DNA adjacent to each other. Aim for similar sized upstream and downstream fragments so that crossovers on either flanking side are equally likely. Suggested method: Gibson Assembly cloning in pEVS79. The following protocol assumes a vector containing chloramphenicol resistance was used and the LBS-Cam concentration was 1.0 μg/ml unless otherwise stated.
+1. Clone approximately 1.6 kb upstream DNA and 1.6 kb downstream DNA adjacent to each other. Aim for similar sized upstream and downstream fragments so that crossovers on either flanking side are equally likely. Suggested method: Gibson Assembly cloning in pEVS79. The following protocol assumes a vector containing chloramphenicol resistance was used and the LBS-Cam concentration was 1.0 μg/ml unless otherwise stated.
 
 <!-- add additional info, vectors, pictures, etc. -->
 
@@ -19,8 +19,8 @@ This protocol describes gene deletion in *V. fischeri* by allelic exchange.
 
 1. [Conjugate](conjugation.md) the plasmid from *E. coli* into *V. fischeri*
   - Plate the 10 μl conjugation spot onto LBS agar and incubate overnight at 25°C. Note: Some strain backgrounds mate better on fresh LBS plates and some mate better on older, dry LBS plates.
-  - Scrape the spot into 700 μl LBS.
-  - Plate 50 μl of the resuspension and 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions of the resuspension onto LBS-Cam plates (make sure the concentration is greater than 2.5 μg/ml to prevent background growth). Incubate overnight at 25°C.
+  - Scrape the spot into 700 μl LBS.
+  - Plate 50 μl of the resuspension and 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions of the resuspension onto LBS-Cam plates (make sure the concentration is greater than 2.5 μg/ml to prevent background growth). Incubate overnight at 25°C.
 
 ## Isolate single recombinants
 

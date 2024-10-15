@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/53515435.svg)](https://zenodo.org/badge/latestdoi/53515435)
 
 ### Molecular Biology
-- [Gene Deletion in *V. fischeri*](files/gene-deletion.md)
+- [Gene Deletion in *V. fischeri* by allelic exchange](files/allelic-exchange.md)
 - [Gibson Assembly](files/gibson-assembly.md)
 - [dNTP stocks for PCR](files/molecular-dntps.md)
 - [Semi-arbitrarily-primed PCR to identify transposon insertion sites](files/arbitrarily-primed-pcr.md)
