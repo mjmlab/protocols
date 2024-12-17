@@ -342,13 +342,13 @@ The specific steps you take will depend on whether you are preparing liquid medi
 
 | Antibiotic            | Final concentration in 1 L media | Stock concentration | Volume of stock to add to 1L media |
 |-----------------------|:---------------------------------|:--------------------|:-----------------------------------|
-| Chloramphenicol (Cam) | 25 μg/ml                         | 25 mg/μl            | 1 ml                               |
-| Chloramphenicol (Cam) | 5 μg/ml                          | 25 mg/μl            | 200 ul                             |
+| Chloramphenicol (Cam) | 25 μg/ml                         | 25 mg/ml            | 1 ml                               |
+| Chloramphenicol (Cam) | 5 μg/ml                          | 25 mg/ml            | 200 ul                             |
 | Erythromycin (Erm)    | 150 μg/ml                        | N/A                 | 0.150 g of powder                  |
-| Erythromycin (Erm)    | 5 μg/ml                          | 10 mg/μl            | 500 ul                             |
-| Kanamycin (Kan)       | 50 μg/ml                         | 50 mg/μl            | 1 ml                               |
-| Kanamycin (Kan)       | 100 μg/ml                        | 50 mg/μl           | 2 ml                               |
-| Spectinomycin (Spc)   | 50 μg/ml                         | 50 mg/μl            | 1 ml                               |
-| Tetracycline (Tet)    | 15 μg/ml                         | 10 mg/μl            | 1.5 ml                             |
-| Tetracycline (Tet)    | 5 μg/ml                          | 10 mg/μl            | 500 μl                             |
-| Carbenicillin (Carb)  | 100 μg/ml                        | 100 mg/μl           | 1 ml                               |
+| Erythromycin (Erm)    | 5 μg/ml                          | 10 mg/ml            | 500 ul                             |
+| Kanamycin (Kan)       | 50 μg/ml                         | 50 mg/ml            | 1 ml                               |
+| Kanamycin (Kan)       | 100 μg/ml                        | 50 mg/ml           | 2 ml                               |
+| Spectinomycin (Spc)   | 50 μg/ml                         | 50 mg/ml            | 1 ml                               |
+| Tetracycline (Tet)    | 15 μg/ml                         | 10 mg/ml            | 1.5 ml                             |
+| Tetracycline (Tet)    | 5 μg/ml                          | 10 mg/ml            | 500 μl                             |
+| Carbenicillin (Carb)  | 100 μg/ml                        | 100 mg/ml           | 1 ml                               |
