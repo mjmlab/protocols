@@ -192,12 +192,17 @@ In a 1 liter graduated cylinder mix:
 
 | Amount | Reagent                                          |
 |-------:|:-------------------------------------------------|
-| 300 ml | dI H<sub>2</sub>O                                |
-| 700 ml | Dissolved Instant Ocean at approximately 33-38 ‰ |
+| 28g |  Instant Ocean |
+| 800ml | dI H<sub>2</sub>O                                |
 
-Cover with parafilm and invert multiple times to mix.  Dispense 100 ml aliquots into milk dilution bottles and autoclave.
 
-Note: Solution is not checked for salinity.  The purpose of the 70% solution is to provide a growth-unsupportive medium for dilution plating.  Solution is inappropriate for animal work.
+Cover with parafilm and invert multiple times to mix. Adjust final volume to 1L.
+
+Check salinity with refractometer, desired salinity is between 33-35ppt. Adjust if needed by adding more IO or DI. 
+
+Dispense 100 ml aliquots into milk dilution bottles and autoclave.
+
+
 
 ### IPTG (100 mM)
 
