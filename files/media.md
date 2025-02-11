@@ -198,9 +198,11 @@ In a 1 liter graduated cylinder mix:
 
 Cover with parafilm and invert multiple times to mix. Adjust final volume to 1L.
 
-Check salinity with refractometer, desired salinity is between 33-35ppt. Adjust if needed by adding more IO or DI. 
+Check salinity with refractometer, desired salinity is between 23-25ppt. Adjust if needed by adding more IO or DI. 
 
 Dispense 100 ml aliquots into milk dilution bottles and autoclave.
+
+Note: The purpose of the 70% solution is to provide a growth-unsupportive medium for dilution plating.  Solution is inappropriate for animal work.
 
 
 
