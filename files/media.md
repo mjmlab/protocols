@@ -119,9 +119,9 @@ Mix the following:
 
 | Amount | Reagent                |
 |-------:|:-----------------------|
-|  50 ml | Tris base, pH 7.5 (1M) |
+| 150 ml | Tris base, pH 7.5 (1M) |
 | 500 ml | [DSW (2X)](#dsw-2x)    |
-| 450 ml | dI H<sub>2</sub>O      |
+| 350 ml | dI H<sub>2</sub>O      |
 
 Filter, then add each filter-sterilized solutions:
 
@@ -130,7 +130,7 @@ Filter, then add each filter-sterilized solutions:
 |                1 ml | K<sub>2</sub>HPO<sub>4</sub> (5.8%)  |
 |                1 ml | FeSO<sub>4</sub> (10 mM)             |
 |                   . | .                                    |
-| to 0.2% (w/v) final | *N*-acetyl-glucosamine as N+C-source |
+| to 0.2% (w/v) final | *N*-acetyl-glucosamine as N+C-source (20 mL of 10% GlcNAc)  |
 |                   . | or                                   |
 | to 0.2% (w/v) final | Carbon Source                        |
 |                5 ml | NH<sub>4</sub>Cl (20%)               |
