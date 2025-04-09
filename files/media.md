@@ -225,23 +225,16 @@ If spreading on plate, consider that a typical plate agar volume is 25 ml. Dispe
 
 `5-bromo-4-chloro-3-indolyl-β-D-galactoside`
 
-For 10mL of Xgal:
+Add solid Xgal to a Corning polypropylene tube in an amount of 20 mg times the mL of N,N-dimethylformamide you need. 
+
+Example for 10 ml of Xgal:
 
 | Amount | Reagent                                    |
 |-------:|:-------------------------------------------|
 | 200 mg | Xgal                                       |
 |  10 ml | *N,N*-dimethylformamide (Dispense in hood) |
 
-Mix in Corning polypropylene 15 mL tube. Wrap tube in foil as Xgal is light-sensitive
-
-For 50mL of Xgal:
-
-| Amount | Reagent                                    |
-|-------:|:-------------------------------------------|
-| 1g | Xgal                                       |
-| 50 ml | *N,N*-dimethylformamide (Dispense in hood) |
-
-Mix in Corning polypropylene 50 mL tube. Wrap tube in foil as Xgal is light-sensitive
+Wrap tube in foil as Xgal is light-sensitive
 
 Note that dimethylformamide dissolves some plastics (e.g., polystyrene conical tubes).
 
