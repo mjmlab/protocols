@@ -225,16 +225,12 @@ If spreading on plate, consider that a typical plate agar volume is 25 ml. Dispe
 
 `5-bromo-4-chloro-3-indolyl-β-D-galactoside`
 
-Add solid Xgal to a Corning polypropylene tube in an amount of 20 mg times the mL of N,N-dimethylformamide you need. 
-
-Example for 10 ml of Xgal:
-
 | Amount | Reagent                                    |
 |-------:|:-------------------------------------------|
 | 200 mg | Xgal                                       |
 |  10 ml | *N,N*-dimethylformamide (Dispense in hood) |
 
-Wrap tube in foil as Xgal is light-sensitive
+Mix in Corning polypropylene 15 mL tube. Wrap tube in foil as Xgal is light-sensitive
 
 Note that dimethylformamide dissolves some plastics (e.g., polystyrene conical tubes).
 
@@ -244,7 +240,7 @@ When adding to autoclaved media prior to pouring, add 5 mL to 1 L of agar.
 
 Add 100 μl to agar plates for β-galactosidase assays.
 
-The most uniform distribution in an agar plate is accomplished by adding Xgal to the liquid agar after the media has been autoclaved and can be touched (~60 °C), then mix well prior to plating. Alternately, if Xgal is spread on a plate directly, pipet onto multiple foci and use 10 glass beads to distribute it rapidly before it sets into local areas of the plate.
+The most uniform distribution in an agar plate is accomplished by adding Xgal to the liquid agar after the media has been autoclaved and can be touched (~60 °C), then mix well prior to plating. Alternately, if Xgal is spread on a plate directly, pipet onto multiple foci and use 10 glass beads to distribute it rapidly before it sets into local areas of the plate
 
 ### DAP (300 mM, 1000x)
 
