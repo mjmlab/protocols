@@ -51,7 +51,7 @@ There is detailed information about making antibiotic-containing media in [`medi
 |:---------------:|:----------------------------------:|:-----------------------------:|:-:|
 |  Carbenicillin  | <font color='orange'>ORANGE</font> |     LB-Carb<sup>100</sup>     | 1,000 μl |
 | Chloramphenicol |    <font color='red'>RED</font>    |      LB-Cam<sup>25</sup>      | 1,000 μl |
-|  Erythromycin   |  <font color='green'>GREEN</font>  |     BHI-Erm<sup>150</sup>     | 150 mg dry dissolved in 1mL ethanol |
+|  Erythromycin   |  <font color='green'>GREEN</font>  |     BHI-Erm<sup>150</sup>     | 150 mg dry dissolved in 1 ml ethanol |
 |    Kanamycin    |   <font color='blue'>BLUE</font>   |      LB-Kan<sup>50</sup>      | 1,000 μl |
 |  Spectinomycin  |   <font color='lime'>LIME</font>   |      LB-Spc<sup>50</sup>      | 1,000 μl |
 |  Tetracycline   | <font color='purple'>PURPLE</font> |      LB-Tet<sup>15</sup>      | 1,500 μl |
