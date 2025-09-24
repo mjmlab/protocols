@@ -45,7 +45,7 @@ Isolate a single recombinant-derived strain in which the allelic exchange vector
 
 1. From the patch above or from the -80°C freezer stock of the single recombinant, inoculate 3 ml LBS in duplicate. Alternately, dilute in duplicate an overnight culture 1:1000 in 3 ml LBS. Grow at 25°C until slightly turbid (OD<sub>600</sub> ≈ 0.2). 
 
-1. Dilute cultures 1:1000 into 3 ml LBS and grow at 25°C until again slightly turbid.
+1. Dilute cultures 1:100 into 3 ml LBS and grow at 25°C until again slightly turbid.
 
 1. Plate for single colonies on LBS (10<sup>-3</sup>, 10<sup>-4</sup>, 10<sup>-5</sup> dilutions). Incubate at 25°C overnight.
 
