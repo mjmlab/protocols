@@ -365,7 +365,7 @@ Each gene deletion target is analyzed separately since the sequence data files n
 ## VIII - Removal of Erm<sup>R</sup> by FLP Recombinase
 
 In this section you will use conjugation to insert pKV496, which codes for the FLP recombinase, into the cell so that FLP can remove the Erm<sup>R</sup>-cassette, leaving behind an in-frame deletion scar with the unique barcode sequence.
-This section follows the [Conjugation protocol](https://github.com/mjmlab/protocols/blob/master/conjugation.md) from the Mandel lab with some modifications.
+This section follows the [Conjugation protocol](conjugation.md) from the Mandel lab with some modifications.
 
 Donor strain: MJM3478 = *E.coli* π3813 / pKV496
 Helper strain: MJM534 = *E.coli* CC118 λpir / pEVS104
