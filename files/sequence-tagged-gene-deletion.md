@@ -182,7 +182,7 @@ Frequently, bands in addition to the desired 3 Kb product are observed after SOE
 ## VI - *tfoX* Transformation
 
 In this section you will insert the Mutagenic DNA fragments into VF using natural transformation.
-This section follows the [tfoX transformation protocol](https://github.com/mjmlab/protocols/blob/master/tfox-transformation.md) from the Mandel Lab with some modifications.
+This section follows the [tfoX transformation protocol](tfox-transformation.md) from the Mandel Lab with some modifications.
 
 Recipient strain: MJM1538 = MJM1100 pLostfoX
 
@@ -191,7 +191,7 @@ Day 1
 - Grow overnight @ 25°C.
 
 Day 2
-- Subculture 30 µl of overnight culture into 3 mL [Tris Minimal Media](https://github.com/mjmlab/protocols/blob/master/media.md#tris-minimal-medium)-Cam<sup>2.5</sup> and continue growing overnight @ 25°C.
+- Subculture 30 µl of overnight culture into 3 mL [Tris Minimal Media](media.md#tris-minimal-medium)-Cam<sup>2.5</sup> and continue growing overnight @ 25°C.
 
 \* Set up culture in Tris Minimal Media-Cam<sup>2.5</sup> late in the day (after 5 pm) so that the culture grows ≤ 15-16 hr, otherwise the subculture the following day will take too long to grow.
 
