@@ -3,6 +3,7 @@
 [![DOI](https://zenodo.org/badge/53515435.svg)](https://zenodo.org/badge/latestdoi/53515435)
 
 ### Molecular Biology
+- [Sequence-Tagged Gene Deletion in *V. fischeri* by Transformation](files/sequence-tagged-gene-deletion.md)
 - [Gene Deletion in *V. fischeri* by allelic exchange](files/allelic-exchange.md)
 - [Gibson Assembly](files/gibson-assembly.md)
 - [dNTP stocks for PCR](files/molecular-dntps.md)
