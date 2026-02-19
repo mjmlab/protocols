@@ -230,7 +230,7 @@ If spreading on plate, consider that a typical plate agar volume is 25 ml. Dispe
 | 200 mg | Xgal                                       |
 |  10 ml | *N,N*-dimethylformamide (Dispense in hood) |
 
-Mix in Corning polypropylene 15 mL tube. Wrap tube in foil as Xgal is light-sensitive
+Mix in Corning polypropylene 15 mL tube. Wrap tube in foil as Xgal is light-sensitive. Can scale this recipe as needed (e.g., to 50 ml in 50 ml conical tubes).
 
 Note that dimethylformamide dissolves some plastics (e.g., polystyrene conical tubes).
 
@@ -351,7 +351,7 @@ The specific steps you take will depend on whether you are preparing liquid medi
 |-----------------------|:---------------------------------|:--------------------|:-----------------------------------|
 | Chloramphenicol (Cam) | 25 μg/ml                         | 25 mg/ml            | 1 ml                               |
 | Chloramphenicol (Cam) | 5 μg/ml                          | 25 mg/ml            | 200 ul                             |
-| Erythromycin (Erm)    | 150 μg/ml                        | N/A                 | 0.150 g of powder                  |
+| Erythromycin (Erm)    | 150 μg/ml                        | 150 mg/ml <p> ❗ ***High conc.***   | 0.150 g of powder dissolved in 1 ml ethanol. Add entire volume to flask.  |
 | Erythromycin (Erm)    | 5 μg/ml                          | 10 mg/ml            | 500 ul                             |
 | Kanamycin (Kan)       | 50 μg/ml                         | 50 mg/ml            | 1 ml                               |
 | Kanamycin (Kan)       | 100 μg/ml                        | 50 mg/ml           | 2 ml                               |
