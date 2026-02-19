@@ -24,7 +24,7 @@
   - Unscrew the end of the hose to provide a **gentle stream of water** from the nozzle. Avoid a strong stream that will generate steam, could make you wet, or could potentially burn you.
 
 ## Tip trash (the clear bag)
-- Can be found in the orange wireframe holder near the main lab entrance. This can be treated as a “Dry” load, and can be autoclaved on P2.
+- Can be found in the orange wireframe holder near the main lab entrance. This can be treated as a “Dry” load, and can be autoclaved on P8.
 - Once the run is finished, stick a green “Ok to Trash” sticker on the bag and toss it into the trashcan in the autoclave room.
 - The liquid in the bin should just be autoclave steam and can be washed out down the drain and the bin left to dry/reuse.
   - If you cannot find ‘OK to Trash’ stickers in lab, you can find more on the first floor in the mail room by the printer.
