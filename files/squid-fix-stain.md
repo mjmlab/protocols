@@ -58,7 +58,7 @@ Store at -20 and protect from light.
 ## Fixation of Squid
 
 1. Upon completion of squid experiment, anesthetize squid in 2% EtOH. This can be done in a 50 ml conical tube with 25 ml FSIO and 500 ul EtOH.
-1. Once squid are anesthetized, transfer to 4% PFA in 1x mPBS. This can be done in 3 ml conical tube with all squid per condition in the same tube. Wrap tube with foil and place on the rotator in the cold room for two nights.
+1. Once squid are anesthetized, transfer to 4% PFA in 1x mPBS. This can be done in 3 ml conical tube with all squid per condition in the same tube. Wrap tube with foil and place on the rotator in the cold room over nights (longer may be needed for a full adult squid to ensure penetration of the fixative. Longer than 24 hours for a hatchling will result in overfixation and increased autofluorescence).
 1. Wash squid with 1X mPBS 4 times for 15 minutes on 4C rotator.
 1. Dissect squid by opening mantel and removing funnel
 1. Proceed with imaging or further staining.
