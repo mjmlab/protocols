@@ -13,6 +13,8 @@
 
 Tris recipe for buffering *V. fischeri* growth media.
 
+Updated instructions for making a large amount found [here](../files/tris-buffer.md)
+
 Amount | Reagent
 ------:|:-------
 127 g  | Tris-HCl
