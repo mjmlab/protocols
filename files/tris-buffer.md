@@ -1,10 +1,32 @@
 # Making Tris Buffer
 
+Mix the following in a 2L plastic beaker:
+
+Reagent | Amount
+-- | -- 
+254 g | Tris HCl
+47.2 g | Tris Base
+
+- Fill with DI water to 1.9 L mark on the beaker
+- Stir with stir bar until dissolved
+- Adjust pH to 7.5
+- Top off the beaker with water to the 2L mark
+- Pour beaker into the large carboy and change the carboy label to today's date, your initials, and the pH.
+
+  Note: This will not completely fill the carboy. Make 2-3 batches of buffer in tandem to stock the carboy.
+
+# More detailed instructions:
+## Detailed instructions on measuring and mixing
 - Begin by grabbing a 2 liter plastic beaker from the cabinet next to the biosafety hood and bringing it to the media bench.
 - Grab a mega weighboat and measure out 254 grams of Tris Hydrochloride and 47.2 grams of Tris Base and add them to the beaker.
 - Add DI water to the 1.9 liter mark on the flask.
   - DO NOT USE THE MARKINGS ON THE GRAD CYLINDER!!! This is super important! The salts take up volume, which means 1.9 liters of water is not actually 1.9 liters in the flask. Please fill to the 1.9 liter mark on the beaker, NOT the grad cylinder! 
-- Throw in a large stir bar and get the salts completely dissolved (there should be no remaining crystals or clumps). 
+- Throw in a large stir bar and get the salts completely dissolved (there should be no remaining crystals or clumps).
+- Adjust the pH (see below)
+- Fill the beaker with DI water to the 2 liter mark and pour into a large carboy.
+- Change label tape on carboy to today's date, your initials, and the pH.
+
+## How to calibrate the pH meter and measure pH
 - Calibrate the pH meter and use clamps to hold in the beaker. 
   - To calibrate:
     - Begin by removing the parafilm around the top of the probe.
@@ -28,5 +50,4 @@
 - Once pH is achieved, remove the probe and rinse with DI.
 - Place it back into probe housing and wrap the hole with a small amount of parafilm.
   - You need to hold the probe while wrapping or it will drop too deep into the holder.
-- Fill the beaker with DI water to the 2 liter mark and pour into a large carboy.
-- Change label tape on carboy to today's date, your initials, and the pH.
+
